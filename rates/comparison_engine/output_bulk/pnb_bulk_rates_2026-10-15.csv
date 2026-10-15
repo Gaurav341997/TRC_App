@@ -1,0 +1,175 @@
+﻿BankName,WithdrawalType,AmountSlab,Tenure,StartDay,EndDay,Rate,EffectiveDate,SourceURL,ExtractionMode,ScrapedAt
+PNB,Callable,Above Rs 10 Cr to Rs 25 Cr,7-14 days,7,14,5.5,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 100 Cr to Rs 500 Cr,7-14 days,7,14,5.5,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 1000 Cr,7-14 days,7,14,5.5,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 25 Cr to Rs 100 Cr,7-14 days,7,14,5.5,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 500 Cr to Rs 1000 Cr,7-14 days,7,14,5.5,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Rs.3 Cr. To 10 Cr.,7 days to 14 days,7,14,4.5,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Callable,Above Rs 10 Cr to Rs 25 Cr,15-21 days,15,21,5.55,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 100 Cr to Rs 500 Cr,15-21 days,15,21,5.55,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 1000 Cr,15-21 days,15,21,5.55,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 25 Cr to Rs 100 Cr,15-21 days,15,21,5.55,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 500 Cr to Rs 1000 Cr,15-21 days,15,21,5.55,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Rs.3 Cr. To 10 Cr.,15 days to 45 days,15,45,5.0,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Callable,Above Rs 10 Cr to Rs 25 Cr,22-29 days,22,29,5.6,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 100 Cr to Rs 500 Cr,22-29 days,22,29,5.6,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 1000 Cr,22-29 days,22,29,5.6,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 25 Cr to Rs 100 Cr,22-29 days,22,29,5.6,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 500 Cr to Rs 1000 Cr,22-29 days,22,29,5.6,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 10 Cr to Rs 25 Cr,30-45 days,30,45,5.7,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 100 Cr to Rs 500 Cr,30-45 days,30,45,5.7,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 1000 Cr,30-45 days,30,45,5.7,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 25 Cr to Rs 100 Cr,30-45 days,30,45,5.7,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 500 Cr to Rs 1000 Cr,30-45 days,30,45,5.7,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 10 Cr to Rs 25 Cr,46-60 days,46,60,5.85,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 100 Cr to Rs 500 Cr,46-60 days,46,60,5.85,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 1000 Cr,46-60 days,46,60,5.85,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 25 Cr to Rs 100 Cr,46-60 days,46,60,5.85,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 500 Cr to Rs 1000 Cr,46-60 days,46,60,5.85,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Rs.3 Cr. To 10 Cr.,46 days to 90 days,46,90,5.0,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Callable,Above Rs 10 Cr to Rs 25 Cr,61-75 days,61,75,5.95,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 100 Cr to Rs 500 Cr,61-75 days,61,75,5.95,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 1000 Cr,61-75 days,61,75,5.95,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 25 Cr to Rs 100 Cr,61-75 days,61,75,5.95,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 500 Cr to Rs 1000 Cr,61-75 days,61,75,5.95,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 10 Cr to Rs 25 Cr,76-90 days,76,90,5.95,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 100 Cr to Rs 500 Cr,76-90 days,76,90,5.95,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 1000 Cr,76-90 days,76,90,5.95,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 25 Cr to Rs 100 Cr,76-90 days,76,90,5.95,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 500 Cr to Rs 1000 Cr,76-90 days,76,90,5.95,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 10 Cr to Rs 25 Cr,91-120 days,91,120,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 100 Cr to Rs 500 Cr,91-120 days,91,120,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 1000 Cr,91-120 days,91,120,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 25 Cr to Rs 100 Cr,91-120 days,91,120,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 500 Cr to Rs 1000 Cr,91-120 days,91,120,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Rs.3 Cr. To 10 Cr.,91 days to 154 days,91,154,5.0,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Callable,Above Rs 10 Cr to Rs 25 Cr,121-150 days,121,150,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 100 Cr to Rs 500 Cr,121-150 days,121,150,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 1000 Cr,121-150 days,121,150,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 25 Cr to Rs 100 Cr,121-150 days,121,150,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 500 Cr to Rs 1000 Cr,121-150 days,121,150,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 10 Cr to Rs 25 Cr,151-179 days,151,179,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 100 Cr to Rs 500 Cr,151-179 days,151,179,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 1000 Cr,151-179 days,151,179,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 25 Cr to Rs 100 Cr,151-179 days,151,179,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 500 Cr to Rs 1000 Cr,151-179 days,151,179,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Rs.3 Cr. To 10 Cr.,155 days,155,155,5.55,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Callable,Rs.3 Cr. To 10 Cr.,156 to 179 days,156,179,5.0,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Callable,Above Rs 10 Cr to Rs 25 Cr,180-270 days,180,270,6.8,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 100 Cr to Rs 500 Cr,180-270 days,180,270,6.8,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 1000 Cr,180-270 days,180,270,6.8,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 25 Cr to Rs 100 Cr,180-270 days,180,270,6.8,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 500 Cr to Rs 1000 Cr,180-270 days,180,270,6.8,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Rs.3 Cr. To 10 Cr.,180 days to 270 Days,180,270,5.8,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Callable,Rs.3 Cr. To 10 Cr.,271 days to 302 Days,271,302,6.0,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Callable,Above Rs 10 Cr to Rs 25 Cr,271 days to less than 1 year,271,364,6.8,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 100 Cr to Rs 500 Cr,271 days to less than 1 year,271,364,6.8,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 1000 Cr,271 days to less than 1 year,271,364,6.8,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 25 Cr to Rs 100 Cr,271 days to less than 1 year,271,364,6.8,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 500 Cr to Rs 1000 Cr,271 days to less than 1 year,271,364,6.8,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Rs.3 Cr. To 10 Cr.,303Days,303,303,5.95,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Callable,Rs.3 Cr. To 10 Cr.,304 Days to < 1 Year,304,364,6.0,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Callable,Above Rs 10 Cr to Rs 25 Cr,1 year,365,365,6.85,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 100 Cr to Rs 500 Cr,1 year,365,365,6.85,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 1000 Cr,1 year,365,365,6.85,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 25 Cr to Rs 100 Cr,1 year,365,365,6.85,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 500 Cr to Rs 1000 Cr,1 year,365,365,6.85,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Rs.3 Cr. To 10 Cr.,1 Year,365,365,6.25,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Callable,Rs.3 Cr. To 10 Cr.,>1 Year to 389 Days,366,389,6.15,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Callable,Above Rs 10 Cr to Rs 25 Cr,>1 year up to 15 months,366,455,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 100 Cr to Rs 500 Cr,>1 year up to 15 months,366,455,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 1000 Cr,>1 year up to 15 months,366,455,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 25 Cr to Rs 100 Cr,>1 year up to 15 months,366,455,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 500 Cr to Rs 1000 Cr,>1 year up to 15 months,366,455,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Rs.3 Cr. To 10 Cr.,390 Days,390,390,6.2,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Callable,Rs.3 Cr. To 10 Cr.,391 Days to 443 Days,391,443,6.15,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Callable,Rs.3 Cr. To 10 Cr.,444 Days,444,444,6.6,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Callable,Rs.3 Cr. To 10 Cr.,445 Days to 2 Years,445,730,6.15,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Callable,Above Rs 10 Cr to Rs 25 Cr,>15 months up to 2 years,456,730,6.25,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 100 Cr to Rs 500 Cr,>15 months up to 2 years,456,730,6.25,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 1000 Cr,>15 months up to 2 years,456,730,6.25,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 25 Cr to Rs 100 Cr,>15 months up to 2 years,456,730,6.25,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 500 Cr to Rs 1000 Cr,>15 months up to 2 years,456,730,6.25,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 10 Cr to Rs 25 Cr,>2 years up to 3 years,731,1095,6.25,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 100 Cr to Rs 500 Cr,>2 years up to 3 years,731,1095,6.25,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 1000 Cr,>2 years up to 3 years,731,1095,6.25,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 25 Cr to Rs 100 Cr,>2 years up to 3 years,731,1095,6.25,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 500 Cr to Rs 1000 Cr,>2 years up to 3 years,731,1095,6.25,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Rs.3 Cr. To 10 Cr.,>2 Years to 3 Years,731,1095,6.05,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Callable,Rs.3 Cr. To 10 Cr.,>3Years to 1203 Days,1096,1203,5.35,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Callable,Above Rs 10 Cr to Rs 25 Cr,>3 years up to 5 years,1096,1825,6.25,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 100 Cr to Rs 500 Cr,>3 years up to 5 years,1096,1825,6.25,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 1000 Cr,>3 years up to 5 years,1096,1825,6.25,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 25 Cr to Rs 100 Cr,>3 years up to 5 years,1096,1825,6.25,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 500 Cr to Rs 1000 Cr,>3 years up to 5 years,1096,1825,6.25,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Rs.3 Cr. To 10 Cr.,1204 Days,1204,1204,5.3,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Callable,Rs.3 Cr. To 10 Cr.,1205 Days to 5 Years,1205,1825,5.35,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Callable,Above Rs 10 Cr to Rs 25 Cr,>5 years up to 10 years,1826,3650,6.25,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 100 Cr to Rs 500 Cr,>5 years up to 10 years,1826,3650,6.25,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 1000 Cr,>5 years up to 10 years,1826,3650,6.25,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 25 Cr to Rs 100 Cr,>5 years up to 10 years,1826,3650,6.25,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Above Rs 500 Cr to Rs 1000 Cr,>5 years up to 10 years,1826,3650,6.25,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Callable,Rs.3 Cr. To 10 Cr.,>5 Years to 10 Years,1826,3650,5.6,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Non-Callable,Above Rs 10 Cr to Rs 25 Cr,91-120 days,91,120,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 100 Cr to Rs 500 Cr,91-120 days,91,120,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 1000 Cr,91-120 days,91,120,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 25 Cr to Rs 100 Cr,91-120 days,91,120,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 500 Cr to Rs 1000 Cr,91-120 days,91,120,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Rs.3 Cr. To 10 Cr.,91 days to 154 days,91,154,5.05,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Non-Callable,Above Rs 10 Cr to Rs 25 Cr,121-150 days,121,150,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 100 Cr to Rs 500 Cr,121-150 days,121,150,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 1000 Cr,121-150 days,121,150,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 25 Cr to Rs 100 Cr,121-150 days,121,150,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 500 Cr to Rs 1000 Cr,121-150 days,121,150,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 10 Cr to Rs 25 Cr,151-179 days,151,179,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 100 Cr to Rs 500 Cr,151-179 days,151,179,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 1000 Cr,151-179 days,151,179,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 25 Cr to Rs 100 Cr,151-179 days,151,179,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 500 Cr to Rs 1000 Cr,151-179 days,151,179,6.65,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Rs.3 Cr. To 10 Cr.,155 days,155,155,5.6,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Non-Callable,Rs.3 Cr. To 10 Cr.,156 to 179 days,156,179,5.05,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Non-Callable,Above Rs 10 Cr to Rs 25 Cr,180-270 days,180,270,6.8,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 100 Cr to Rs 500 Cr,180-270 days,180,270,6.8,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 1000 Cr,180-270 days,180,270,6.8,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 25 Cr to Rs 100 Cr,180-270 days,180,270,6.8,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 500 Cr to Rs 1000 Cr,180-270 days,180,270,6.8,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Rs.3 Cr. To 10 Cr.,180 days to 270 Days,180,270,5.85,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Non-Callable,Rs.3 Cr. To 10 Cr.,271 days to 302 Days,271,302,6.05,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Non-Callable,Above Rs 10 Cr to Rs 25 Cr,271 days to less than 1 year,271,364,6.8,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 100 Cr to Rs 500 Cr,271 days to less than 1 year,271,364,6.8,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 1000 Cr,271 days to less than 1 year,271,364,6.8,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 25 Cr to Rs 100 Cr,271 days to less than 1 year,271,364,6.8,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 500 Cr to Rs 1000 Cr,271 days to less than 1 year,271,364,6.8,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Rs.3 Cr. To 10 Cr.,303Days,303,303,6.0,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Non-Callable,Rs.3 Cr. To 10 Cr.,304 Days to < 1 Year,304,364,6.05,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Non-Callable,Above Rs 10 Cr to Rs 25 Cr,1 year,365,365,6.9,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 100 Cr to Rs 500 Cr,1 year,365,365,6.9,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 1000 Cr,1 year,365,365,6.9,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 25 Cr to Rs 100 Cr,1 year,365,365,6.9,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 500 Cr to Rs 1000 Cr,1 year,365,365,6.9,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Rs.3 Cr. To 10 Cr.,1 Year,365,365,6.3,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Non-Callable,Rs.3 Cr. To 10 Cr.,>1 Year to 389 Days,366,389,6.2,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Non-Callable,Above Rs 10 Cr to Rs 25 Cr,>1 year up to 15 months,366,455,6.75,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 100 Cr to Rs 500 Cr,>1 year up to 15 months,366,455,6.75,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 1000 Cr,>1 year up to 15 months,366,455,6.75,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 25 Cr to Rs 100 Cr,>1 year up to 15 months,366,455,6.75,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 500 Cr to Rs 1000 Cr,>1 year up to 15 months,366,455,6.75,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Rs.3 Cr. To 10 Cr.,390 Days,390,390,6.25,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Non-Callable,Rs.3 Cr. To 10 Cr.,391 Days to 443 Days,391,443,6.2,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Non-Callable,Rs.3 Cr. To 10 Cr.,444 Days,444,444,6.65,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Non-Callable,Rs.3 Cr. To 10 Cr.,445 Days to 2 Years,445,730,6.2,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Non-Callable,Above Rs 10 Cr to Rs 25 Cr,>15 months up to 2 years,456,730,6.3,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 100 Cr to Rs 500 Cr,>15 months up to 2 years,456,730,6.3,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 1000 Cr,>15 months up to 2 years,456,730,6.3,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 25 Cr to Rs 100 Cr,>15 months up to 2 years,456,730,6.3,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 500 Cr to Rs 1000 Cr,>15 months up to 2 years,456,730,6.3,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 10 Cr to Rs 25 Cr,>2 years up to 3 years,731,1095,6.3,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 100 Cr to Rs 500 Cr,>2 years up to 3 years,731,1095,6.3,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 1000 Cr,>2 years up to 3 years,731,1095,6.3,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 25 Cr to Rs 100 Cr,>2 years up to 3 years,731,1095,6.3,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Above Rs 500 Cr to Rs 1000 Cr,>2 years up to 3 years,731,1095,6.3,2026-10-15,https://pnb.bank.in/downloadprocess.aspx?fid=2CTkAq1s7HMN1kpNzipiSw==,official_pdf,2026-10-15T15:05:26
+PNB,Non-Callable,Rs.3 Cr. To 10 Cr.,>2 Years to 3 Years,731,1095,6.1,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Non-Callable,Rs.3 Cr. To 10 Cr.,>3Years to 1203 Days,1096,1203,5.4,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Non-Callable,Rs.3 Cr. To 10 Cr.,1204 Days,1204,1204,5.35,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Non-Callable,Rs.3 Cr. To 10 Cr.,1205 Days to 5 Years,1205,1825,5.4,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21
+PNB,Non-Callable,Rs.3 Cr. To 10 Cr.,>5 Years to 10 Years,1826,3650,5.65,2026-03-14,https://pnb.bank.in/Interest-Rates-Deposit.html,official_html,2026-10-15T15:05:21

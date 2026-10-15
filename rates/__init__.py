@@ -1,0 +1,1 @@
+# rates app package

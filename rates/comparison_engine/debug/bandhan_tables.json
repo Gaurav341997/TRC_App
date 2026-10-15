@@ -1,0 +1,12 @@
+[
+  {
+    "table_number": 1,
+    "text_preview": "Maturity Bucket Interest Rates for Non-Senior Citizens Interest Rates for Senior Citizens 7 days to 14 days 2.95% 3.70% 15 days to 30 days 2.95% 3.70% 31 days to less than 2 months 3.45% 4.20% 2 months to less than 3 months 4.20% 4.95% 3 months to less than 6 months 4.20% 4.95% 6 months to less than 1 year 4.20% 4.95% 1 year 7.00% 7.50% 1 year 1 day to 1 year 9 months 7.00% 7.50% 1 year 9 months 1 day to less than 2 years 7.00% 7.50% 2 years to less than 3 years 7.45% 7.95% 3 years to less than 5 years 7.25% 7.75% 5 years to up to 10 years 5.85% 6.60%",
+    "parsed_row_count": 12
+  },
+  {
+    "table_number": 2,
+    "text_preview": "TD Type Interest Rates for Non-Senior Citizens Interest Rates for Senior Citizens Tax Saver Fixed Deposit 6.25% 7.25%",
+    "parsed_row_count": 0
+  }
+]

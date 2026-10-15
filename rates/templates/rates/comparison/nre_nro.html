@@ -1,0 +1,356 @@
+{% extends "rates/base.html" %}
+
+{% block body %}
+{% url "home" as home_url %}
+{% url "logout" as logout_url %}
+
+<header class="topbar">
+    <div class="topbar-inner">
+        <div class="brand">
+            <div class="brand-mark">INR</div>
+            <span class="brand-name">Treasury Rates</span>
+
+            {% if is_admin %}
+                <a href="/admin/"
+                   class="role-chip role-admin"
+                   title="Open Admin Panel">
+                    Administrator
+                </a>
+                <a href="/admin/auth/user/"
+                   class="manage-users-link">
+                    Manage Users
+                </a>
+            {% else %}
+                <span class="role-chip role-user">Treasury User</span>
+            {% endif %}
+        </div>
+
+        <div class="topbar-actions">
+            <a href="{% url 'home' %}"
+               class="topbar-home-button"
+               title="Go to application home">
+                <svg width="16"
+                     height="16"
+                     viewBox="0 0 24 24"
+                     fill="none"
+                     stroke="currentColor"
+                     stroke-width="2.2"
+                     stroke-linecap="round"
+                     stroke-linejoin="round"
+                     aria-hidden="true">
+                    <path d="M3 11L12 3L21 11"></path>
+                    <path d="M5 10V21H19V10"></path>
+                    <path d="M9 21V14H15V21"></path>
+                </svg>
+                <span>Home</span>
+            </a>
+
+            <form action="{{ logout_url }}"
+                  method="post"
+                  class="logout-form">
+                {% csrf_token %}
+                <button type="submit" class="signout">Sign out</button>
+            </form>
+        </div>
+    </div>
+</header>
+
+<main class="retail-dashboard">
+    <section class="retail-dashboard-header">
+        <div class="retail-dashboard-title-wrap">
+            <h1>NRE/NRO TD Rate Comparison</h1>
+            <p>Bank-wise NRE and NRO rate comparison against AU benchmark tenures.</p>
+
+            {% if workbook_available %}
+                <div class="retail-last-updated">
+                    Last updated:
+                    <strong>{{ workbook_updated_at|date:"d-M-Y H:i" }}</strong>
+                </div>
+            {% endif %}
+        </div>
+
+        <div class="retail-header-actions">
+            <a href="{% url 'refresh_all_rates' %}?next=nre_nro"
+               class="retail-download-button"
+               title="Refresh all comparison rates">
+                Refresh Rates
+            </a>
+
+            {% if workbook_available %}
+                <a href="{% url 'download_nre_nro_comparison' %}"
+                   class="retail-download-button"
+                   title="Download the latest NRE/NRO comparison workbook">
+                    Download Excel
+                </a>
+            {% else %}
+                <button type="button"
+                        class="retail-download-button"
+                        disabled
+                        title="NRE/NRO comparison workbook is unavailable">
+                    Download Excel
+                </button>
+            {% endif %}
+        </div>
+    </section>
+
+    {% if messages %}
+        <section class="comparison-message-list">
+            {% for message in messages %}
+                <div class="comparison-message{% if message.tags %} {{ message.tags }}{% endif %}">
+                    {{ message }}
+                </div>
+            {% endfor %}
+        </section>
+    {% endif %}
+
+    {% if workbook_error %}
+        <section class="retail-error-message">
+            <strong>NRE/NRO comparison workbook unavailable</strong>
+            <div>{{ workbook_error }}</div>
+        </section>
+    {% endif %}
+
+    {% if workbook_available %}
+        <section class="retail-dashboard-card">
+            <div class="retail-toolbar">
+                <div class="retail-sheet-tabs"
+                     role="tablist"
+                     aria-label="NRE/NRO comparison workbook sheets">
+                    {% for sheet in nre_nro_sheets %}
+                        <button type="button"
+                                class="retail-sheet-tab{% if forloop.first %} active{% endif %}"
+                                data-nre-sheet="{{ sheet.key }}"
+                                role="tab"
+                                aria-selected="{% if forloop.first %}true{% else %}false{% endif %}"
+                                aria-controls="nre-sheet-{{ sheet.key }}">
+                            {{ sheet.label }}
+                        </button>
+                    {% endfor %}
+                </div>
+
+                <div class="retail-filter-wrap">
+                    <label for="nre-table-search" class="retail-search-label">
+                        Search
+                    </label>
+                    <input type="search"
+                           id="nre-table-search"
+                           class="retail-search-input"
+                           placeholder="Search tenure, bank or rate..."
+                           autocomplete="off">
+                    <label class="retail-highlight-control">
+                        <input type="checkbox" id="nre-highlight-toggle" checked>
+                        Show AU comparison colors
+                    </label>
+                </div>
+            </div>
+
+            {% for sheet in nre_nro_sheets %}
+                <section id="nre-sheet-{{ sheet.key }}"
+                         class="retail-sheet-panel{% if forloop.first %} active{% endif %}"
+                         data-nre-panel="{{ sheet.key }}"
+                         role="tabpanel"
+                         {% if not forloop.first %}hidden{% endif %}>
+
+                    <div class="retail-sheet-heading">
+                        <div>
+                            <h2>{{ sheet.label }}</h2>
+                            {% if sheet.available %}
+                                <p>{{ sheet.row_count }} workbook rows</p>
+                            {% endif %}
+                        </div>
+
+                        {% if sheet.available %}
+                            <span class="retail-ready-chip">Data available</span>
+                        {% endif %}
+                    </div>
+
+                    {% if sheet.error %}
+                        <div class="retail-sheet-error">{{ sheet.error }}</div>
+                    {% elif sheet.rows %}
+                        <div class="retail-table-container">
+                            <table class="retail-comparison-table nre-nro-comparison-table">
+                                <thead>
+                                    <tr class="retail-header-row nre-category-header">
+                                        <th class="retail-cell retail-first-column"
+                                            rowspan="3"
+                                            scope="col">
+                                            FD Tenors
+                                        </th>
+                                        <th class="retail-cell" colspan="2" scope="colgroup">Public Bank</th>
+                                        <th class="retail-cell" colspan="10" scope="colgroup">Large Private Banks</th>
+                                        <th class="retail-cell" colspan="6" scope="colgroup">Competition Banks</th>
+                                        <th class="retail-cell" colspan="4" scope="colgroup">Other Competition Banks</th>
+                                        <th class="retail-cell" colspan="2" scope="colgroup">AU Bank</th>
+                                    </tr>
+
+                                    <tr class="retail-header-row nre-bank-header">
+                                        <th class="retail-cell" colspan="2">SBI</th>
+                                        <th class="retail-cell" colspan="2">HDFC</th>
+                                        <th class="retail-cell" colspan="2">ICICI</th>
+                                        <th class="retail-cell" colspan="2">Axis</th>
+                                        <th class="retail-cell" colspan="2">Kotak</th>
+                                        <th class="retail-cell" colspan="2">Yes</th>
+                                        <th class="retail-cell" colspan="2">IndusInd</th>
+                                        <th class="retail-cell" colspan="2">IDFC</th>
+                                        <th class="retail-cell" colspan="2">Bandhan</th>
+                                        <th class="retail-cell" colspan="2">RBL</th>
+                                        <th class="retail-cell" colspan="2">DCB</th>
+                                        <th class="retail-cell" colspan="2">AU Bank</th>
+                                    </tr>
+
+                                    <tr class="retail-header-row nre-type-header">
+                                        {% for ignored in "123456789012" %}
+                                            <th class="retail-cell" scope="col">NRE</th>
+                                            <th class="retail-cell" scope="col">NRO</th>
+                                        {% endfor %}
+                                    </tr>
+                                </thead>
+
+                                <tbody>
+                                    {% for row in sheet.rows %}
+                                        {% if forloop.counter > 3 %}
+                                            <tr class="nre-data-row">
+                                                {% for cell in row.cells|slice:":25" %}
+                                                    <td class="retail-cell{% if forloop.first %} retail-first-column{% endif %}{% if cell.is_maximum %} retail-highest-rate{% endif %}"
+                                                        data-search-value="{{ cell.raw_value|lower }}">
+                                                        <span class="retail-cell-value">{{ cell.value }}</span>
+
+                                                        {% if cell.is_maximum %}
+                                                            <span class="retail-max-badge"
+                                                                  title="Highest applicable rate in this row">
+                                                                MAX
+                                                            </span>
+                                                        {% endif %}
+                                                    </td>
+                                                {% endfor %}
+                                            </tr>
+                                        {% endif %}
+                                    {% endfor %}
+                                </tbody>
+                            </table>
+                        </div>
+                    {% else %}
+                        <div class="retail-empty-message">
+                            No records are available in this worksheet.
+                        </div>
+                    {% endif %}
+                </section>
+            {% empty %}
+                <section class="retail-empty-message">
+                    No NRE/NRO workbook sheets are configured.
+                </section>
+            {% endfor %}
+        </section>
+    {% else %}
+        <section class="retail-dashboard-card">
+            <div class="retail-empty-state">
+                <h2>NRE/NRO comparison workbook is not available</h2>
+                <p>Run the NRE/NRO scraper and comparison builder to generate the latest workbook.</p>
+            </div>
+        </section>
+    {% endif %}
+</main>
+
+<script>
+(function () {
+    "use strict";
+
+    const tabButtons = Array.from(document.querySelectorAll("[data-nre-sheet]"));
+    const sheetPanels = Array.from(document.querySelectorAll("[data-nre-panel]"));
+    const searchInput = document.getElementById("nre-table-search");
+    const highlightToggle = document.getElementById("nre-highlight-toggle");
+
+
+    function parseRate(cell) {
+        if (!cell) return null;
+        const text = String(cell.textContent || "").replace("MAX", "").trim();
+        if (!text || text === "-" || text.toLowerCase() === "na" || text.toLowerCase() === "n/a") return null;
+        const value = Number.parseFloat(text.replace(/,/g, "").replace(/%/g, ""));
+        return Number.isFinite(value) ? value : null;
+    }
+
+    function applyAuComparison(panel) {
+        if (!panel) return;
+        panel.querySelectorAll(".nre-data-row").forEach(function (row) {
+            const cells = Array.from(row.querySelectorAll("td"));
+            if (cells.length < 25) return;
+            const auNRE = parseRate(cells[23]);
+            const auNRO = parseRate(cells[24]);
+            cells.forEach(function (cell) {
+                cell.classList.remove("rate-lower-than-au", "rate-higher-than-au", "rate-equal-to-au", "rate-au-bank");
+            });
+            cells[23].classList.add("rate-au-bank");
+            cells[24].classList.add("rate-au-bank");
+            for (let index = 1; index <= 22; index += 1) {
+                const competitor = parseRate(cells[index]);
+                const benchmark = index % 2 === 1 ? auNRE : auNRO;
+                if (competitor === null || benchmark === null) continue;
+                if (competitor < benchmark) cells[index].classList.add("rate-lower-than-au");
+                else if (competitor > benchmark) cells[index].classList.add("rate-higher-than-au");
+                else cells[index].classList.add("rate-equal-to-au");
+            }
+        });
+    }
+
+    function getActivePanel() {
+        return document.querySelector("[data-nre-panel].active");
+    }
+
+    function filterActiveTable(searchText) {
+        const activePanel = getActivePanel();
+        if (!activePanel) return;
+
+        const normalizedSearch = String(searchText || "").trim().toLowerCase();
+
+        activePanel.querySelectorAll(".nre-data-row").forEach(function (row) {
+            const rowText = row.textContent.toLowerCase().replace(/\s+/g, " ").trim();
+            row.hidden = normalizedSearch !== "" && !rowText.includes(normalizedSearch);
+        });
+    }
+
+    function activateSheet(sheetKey) {
+        applyAuComparison(getActivePanel());
+
+    tabButtons.forEach(function (button) {
+            const isActive = button.dataset.nreSheet === sheetKey;
+            button.classList.toggle("active", isActive);
+            button.setAttribute("aria-selected", isActive ? "true" : "false");
+        });
+
+        sheetPanels.forEach(function (panel) {
+            const isActive = panel.dataset.nrePanel === sheetKey;
+            panel.classList.toggle("active", isActive);
+            panel.hidden = !isActive;
+        });
+
+        applyAuComparison(getActivePanel());
+
+        if (searchInput) searchInput.value = "";
+        filterActiveTable("");
+    }
+
+    tabButtons.forEach(function (button) {
+        button.addEventListener("click", function () {
+            activateSheet(button.dataset.nreSheet);
+        });
+    });
+
+    if (searchInput) {
+        searchInput.addEventListener("input", function () {
+            filterActiveTable(searchInput.value);
+        });
+    }
+
+    if (highlightToggle) {
+        highlightToggle.addEventListener("change", function () {
+            document.body.classList.toggle(
+                "retail-hide-highlights",
+                !highlightToggle.checked
+            );
+        });
+    }
+
+    applyAuComparison(getActivePanel());
+})();
+</script>
+{% endblock %}

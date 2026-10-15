@@ -1,0 +1,433 @@
+﻿BankName,WithdrawalType,AmountSlab,Tenure,StartDay,EndDay,Rate,EffectiveDate,SourceURL,ExtractionMode,ScrapedAt
+BANDHAN,Callable,Above Rs 10 cr to less than Rs 25 Cr,7 days to 15 days,7,15,3.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 100 cr to less than Rs 200 cr,7 days to 15 days,7,15,3.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 200 cr to less than Rs 300 cr,7 days to 15 days,7,15,3.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 25 cr to less than Rs 50 cr,7 days to 15 days,7,15,3.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 3 cr to Rs 10 Cr,7 days to 15 days,7,15,3.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 300 cr to less than Rs 500 cr,7 days to 15 days,7,15,3.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 50 cr to less than Rs 75 cr,7 days to 15 days,7,15,3.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 500 cr and above,7 days to 15 days,7,15,3.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 75 cr to less than Rs 100 cr,7 days to 15 days,7,15,3.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Above Rs 10 cr to less than Rs 25 Cr,16 days < 1 month,16,29,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 100 cr to less than Rs 200 cr,16 days < 1 month,16,29,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 200 cr to less than Rs 300 cr,16 days < 1 month,16,29,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 25 cr to less than Rs 50 cr,16 days < 1 month,16,29,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 3 cr to Rs 10 Cr,16 days < 1 month,16,29,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 300 cr to less than Rs 500 cr,16 days < 1 month,16,29,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 50 cr to less than Rs 75 cr,16 days < 1 month,16,29,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 500 cr and above,16 days < 1 month,16,29,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 75 cr to less than Rs 100 cr,16 days < 1 month,16,29,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Above Rs 10 cr to less than Rs 25 Cr,1 month < 2 months,30,59,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 100 cr to less than Rs 200 cr,1 month < 2 months,30,59,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 200 cr to less than Rs 300 cr,1 month < 2 months,30,59,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 25 cr to less than Rs 50 cr,1 month < 2 months,30,59,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 3 cr to Rs 10 Cr,1 month < 2 months,30,59,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 300 cr to less than Rs 500 cr,1 month < 2 months,30,59,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 50 cr to less than Rs 75 cr,1 month < 2 months,30,59,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 500 cr and above,1 month < 2 months,30,59,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 75 cr to less than Rs 100 cr,1 month < 2 months,30,59,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Above Rs 10 cr to less than Rs 25 Cr,2 months < 3 months,60,89,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 100 cr to less than Rs 200 cr,2 months < 3 months,60,89,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 200 cr to less than Rs 300 cr,2 months < 3 months,60,89,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 25 cr to less than Rs 50 cr,2 months < 3 months,60,89,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 3 cr to Rs 10 Cr,2 months < 3 months,60,89,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 300 cr to less than Rs 500 cr,2 months < 3 months,60,89,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 50 cr to less than Rs 75 cr,2 months < 3 months,60,89,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 500 cr and above,2 months < 3 months,60,89,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 75 cr to less than Rs 100 cr,2 months < 3 months,60,89,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Above Rs 10 cr to less than Rs 25 Cr,3 months < 4 months,90,119,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 100 cr to less than Rs 200 cr,3 months < 4 months,90,119,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 200 cr to less than Rs 300 cr,3 months < 4 months,90,119,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 25 cr to less than Rs 50 cr,3 months < 4 months,90,119,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 3 cr to Rs 10 Cr,3 months < 4 months,90,119,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 300 cr to less than Rs 500 cr,3 months < 4 months,90,119,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 50 cr to less than Rs 75 cr,3 months < 4 months,90,119,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 500 cr and above,3 months < 4 months,90,119,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 75 cr to less than Rs 100 cr,3 months < 4 months,90,119,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Above Rs 10 cr to less than Rs 25 Cr,4 months < 5 months,120,149,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 100 cr to less than Rs 200 cr,4 months < 5 months,120,149,6.3,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 200 cr to less than Rs 300 cr,4 months < 5 months,120,149,6.3,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 25 cr to less than Rs 50 cr,4 months < 5 months,120,149,6.3,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 3 cr to Rs 10 Cr,4 months < 5 months,120,149,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 300 cr to less than Rs 500 cr,4 months < 5 months,120,149,6.3,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 50 cr to less than Rs 75 cr,4 months < 5 months,120,149,6.3,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 500 cr and above,4 months < 5 months,120,149,6.3,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 75 cr to less than Rs 100 cr,4 months < 5 months,120,149,6.3,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Above Rs 10 cr to less than Rs 25 Cr,5 months < 6 months,150,179,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 100 cr to less than Rs 200 cr,5 months < 6 months,150,179,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 200 cr to less than Rs 300 cr,5 months < 6 months,150,179,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 25 cr to less than Rs 50 cr,5 months < 6 months,150,179,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 3 cr to Rs 10 Cr,5 months < 6 months,150,179,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 300 cr to less than Rs 500 cr,5 months < 6 months,150,179,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 50 cr to less than Rs 75 cr,5 months < 6 months,150,179,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 500 cr and above,5 months < 6 months,150,179,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 75 cr to less than Rs 100 cr,5 months < 6 months,150,179,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Above Rs 10 cr to less than Rs 25 Cr,6 months < 7 months,180,209,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 100 cr to less than Rs 200 cr,6 months < 7 months,180,209,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 200 cr to less than Rs 300 cr,6 months < 7 months,180,209,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 25 cr to less than Rs 50 cr,6 months < 7 months,180,209,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 3 cr to Rs 10 Cr,6 months < 7 months,180,209,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 300 cr to less than Rs 500 cr,6 months < 7 months,180,209,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 50 cr to less than Rs 75 cr,6 months < 7 months,180,209,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 500 cr and above,6 months < 7 months,180,209,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 75 cr to less than Rs 100 cr,6 months < 7 months,180,209,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Above Rs 10 cr to less than Rs 25 Cr,7 months < 8 months,210,239,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 100 cr to less than Rs 200 cr,7 months < 8 months,210,239,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 200 cr to less than Rs 300 cr,7 months < 8 months,210,239,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 25 cr to less than Rs 50 cr,7 months < 8 months,210,239,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 3 cr to Rs 10 Cr,7 months < 8 months,210,239,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 300 cr to less than Rs 500 cr,7 months < 8 months,210,239,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 50 cr to less than Rs 75 cr,7 months < 8 months,210,239,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 500 cr and above,7 months < 8 months,210,239,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 75 cr to less than Rs 100 cr,7 months < 8 months,210,239,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Above Rs 10 cr to less than Rs 25 Cr,8 months < 9 months,240,269,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 100 cr to less than Rs 200 cr,8 months < 9 months,240,269,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 200 cr to less than Rs 300 cr,8 months < 9 months,240,269,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 25 cr to less than Rs 50 cr,8 months < 9 months,240,269,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 3 cr to Rs 10 Cr,8 months < 9 months,240,269,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 300 cr to less than Rs 500 cr,8 months < 9 months,240,269,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 50 cr to less than Rs 75 cr,8 months < 9 months,240,269,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 500 cr and above,8 months < 9 months,240,269,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 75 cr to less than Rs 100 cr,8 months < 9 months,240,269,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Above Rs 10 cr to less than Rs 25 Cr,9 months < 10 months,270,299,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 100 cr to less than Rs 200 cr,9 months < 10 months,270,299,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 200 cr to less than Rs 300 cr,9 months < 10 months,270,299,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 25 cr to less than Rs 50 cr,9 months < 10 months,270,299,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 3 cr to Rs 10 Cr,9 months < 10 months,270,299,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 300 cr to less than Rs 500 cr,9 months < 10 months,270,299,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 50 cr to less than Rs 75 cr,9 months < 10 months,270,299,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 500 cr and above,9 months < 10 months,270,299,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 75 cr to less than Rs 100 cr,9 months < 10 months,270,299,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Above Rs 10 cr to less than Rs 25 Cr,10 months < 11 months,300,329,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 100 cr to less than Rs 200 cr,10 months < 11 months,300,329,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 200 cr to less than Rs 300 cr,10 months < 11 months,300,329,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 25 cr to less than Rs 50 cr,10 months < 11 months,300,329,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 3 cr to Rs 10 Cr,10 months < 11 months,300,329,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 300 cr to less than Rs 500 cr,10 months < 11 months,300,329,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 50 cr to less than Rs 75 cr,10 months < 11 months,300,329,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 500 cr and above,10 months < 11 months,300,329,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 75 cr to less than Rs 100 cr,10 months < 11 months,300,329,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Above Rs 10 cr to less than Rs 25 Cr,11 months < 12 months,330,364,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 100 cr to less than Rs 200 cr,11 months < 12 months,330,364,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 200 cr to less than Rs 300 cr,11 months < 12 months,330,364,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 25 cr to less than Rs 50 cr,11 months < 12 months,330,364,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 3 cr to Rs 10 Cr,11 months < 12 months,330,364,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 300 cr to less than Rs 500 cr,11 months < 12 months,330,364,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 50 cr to less than Rs 75 cr,11 months < 12 months,330,364,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 500 cr and above,11 months < 12 months,330,364,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 75 cr to less than Rs 100 cr,11 months < 12 months,330,364,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Above Rs 10 cr to less than Rs 25 Cr,12 months,365,365,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 100 cr to less than Rs 200 cr,12 months,365,365,7.2,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 200 cr to less than Rs 300 cr,12 months,365,365,7.2,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 25 cr to less than Rs 50 cr,12 months,365,365,7.2,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 3 cr to Rs 10 Cr,12 months,365,365,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 300 cr to less than Rs 500 cr,12 months,365,365,7.2,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 50 cr to less than Rs 75 cr,12 months,365,365,7.2,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 500 cr and above,12 months,365,365,7.2,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 75 cr to less than Rs 100 cr,12 months,365,365,7.2,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Above Rs 10 cr to less than Rs 25 Cr,12 months 1 day < 13 months,366,394,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 100 cr to less than Rs 200 cr,12 months 1 day < 13 months,366,394,7.2,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 200 cr to less than Rs 300 cr,12 months 1 day < 13 months,366,394,7.2,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 25 cr to less than Rs 50 cr,12 months 1 day < 13 months,366,394,7.2,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 3 cr to Rs 10 Cr,12 months 1 day < 13 months,366,394,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 300 cr to less than Rs 500 cr,12 months 1 day < 13 months,366,394,7.2,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 50 cr to less than Rs 75 cr,12 months 1 day < 13 months,366,394,7.2,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 500 cr and above,12 months 1 day < 13 months,366,394,7.2,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 75 cr to less than Rs 100 cr,12 months 1 day < 13 months,366,394,7.2,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Above Rs 10 cr to less than Rs 25 Cr,13 months < 14 months,395,424,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 100 cr to less than Rs 200 cr,13 months < 14 months,395,424,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 200 cr to less than Rs 300 cr,13 months < 14 months,395,424,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 25 cr to less than Rs 50 cr,13 months < 14 months,395,424,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 3 cr to Rs 10 Cr,13 months < 14 months,395,424,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 300 cr to less than Rs 500 cr,13 months < 14 months,395,424,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 50 cr to less than Rs 75 cr,13 months < 14 months,395,424,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 500 cr and above,13 months < 14 months,395,424,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 75 cr to less than Rs 100 cr,13 months < 14 months,395,424,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Above Rs 10 cr to less than Rs 25 Cr,14 months < 15 months,425,454,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 100 cr to less than Rs 200 cr,14 months < 15 months,425,454,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 200 cr to less than Rs 300 cr,14 months < 15 months,425,454,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 25 cr to less than Rs 50 cr,14 months < 15 months,425,454,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 3 cr to Rs 10 Cr,14 months < 15 months,425,454,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 300 cr to less than Rs 500 cr,14 months < 15 months,425,454,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 50 cr to less than Rs 75 cr,14 months < 15 months,425,454,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 500 cr and above,14 months < 15 months,425,454,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 75 cr to less than Rs 100 cr,14 months < 15 months,425,454,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Above Rs 10 cr to less than Rs 25 Cr,15 months < 16 months,455,484,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 100 cr to less than Rs 200 cr,15 months < 16 months,455,484,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 200 cr to less than Rs 300 cr,15 months < 16 months,455,484,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 25 cr to less than Rs 50 cr,15 months < 16 months,455,484,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 3 cr to Rs 10 Cr,15 months < 16 months,455,484,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 300 cr to less than Rs 500 cr,15 months < 16 months,455,484,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 50 cr to less than Rs 75 cr,15 months < 16 months,455,484,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 500 cr and above,15 months < 16 months,455,484,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 75 cr to less than Rs 100 cr,15 months < 16 months,455,484,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Above Rs 10 cr to less than Rs 25 Cr,16 months < 17 months,485,514,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 100 cr to less than Rs 200 cr,16 months < 17 months,485,514,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 200 cr to less than Rs 300 cr,16 months < 17 months,485,514,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 25 cr to less than Rs 50 cr,16 months < 17 months,485,514,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 3 cr to Rs 10 Cr,16 months < 17 months,485,514,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 300 cr to less than Rs 500 cr,16 months < 17 months,485,514,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 50 cr to less than Rs 75 cr,16 months < 17 months,485,514,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 500 cr and above,16 months < 17 months,485,514,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 75 cr to less than Rs 100 cr,16 months < 17 months,485,514,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Above Rs 10 cr to less than Rs 25 Cr,17 months < 18 months,515,544,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 100 cr to less than Rs 200 cr,17 months < 18 months,515,544,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 200 cr to less than Rs 300 cr,17 months < 18 months,515,544,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 25 cr to less than Rs 50 cr,17 months < 18 months,515,544,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 3 cr to Rs 10 Cr,17 months < 18 months,515,544,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 300 cr to less than Rs 500 cr,17 months < 18 months,515,544,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 50 cr to less than Rs 75 cr,17 months < 18 months,515,544,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 500 cr and above,17 months < 18 months,515,544,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 75 cr to less than Rs 100 cr,17 months < 18 months,515,544,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Above Rs 10 cr to less than Rs 25 Cr,18 months < 2 years,545,729,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 100 cr to less than Rs 200 cr,18 months < 2 years,545,729,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 200 cr to less than Rs 300 cr,18 months < 2 years,545,729,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 25 cr to less than Rs 50 cr,18 months < 2 years,545,729,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 3 cr to Rs 10 Cr,18 months < 2 years,545,729,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 300 cr to less than Rs 500 cr,18 months < 2 years,545,729,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 50 cr to less than Rs 75 cr,18 months < 2 years,545,729,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 500 cr and above,18 months < 2 years,545,729,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 75 cr to less than Rs 100 cr,18 months < 2 years,545,729,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Above Rs 10 cr to less than Rs 25 Cr,2 years to less than 3 years,730,1094,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 100 cr to less than Rs 200 cr,2 years to less than 3 years,730,1094,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 200 cr to less than Rs 300 cr,2 years to less than 3 years,730,1094,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 25 cr to less than Rs 50 cr,2 years to less than 3 years,730,1094,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 3 cr to Rs 10 Cr,2 years to less than 3 years,730,1094,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 300 cr to less than Rs 500 cr,2 years to less than 3 years,730,1094,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 50 cr to less than Rs 75 cr,2 years to less than 3 years,730,1094,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 500 cr and above,2 years to less than 3 years,730,1094,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 75 cr to less than Rs 100 cr,2 years to less than 3 years,730,1094,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Above Rs 10 cr to less than Rs 25 Cr,3 years to less than 5 years,1095,1824,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 100 cr to less than Rs 200 cr,3 years to less than 5 years,1095,1824,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 200 cr to less than Rs 300 cr,3 years to less than 5 years,1095,1824,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 25 cr to less than Rs 50 cr,3 years to less than 5 years,1095,1824,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 3 cr to Rs 10 Cr,3 years to less than 5 years,1095,1824,5.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 300 cr to less than Rs 500 cr,3 years to less than 5 years,1095,1824,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 50 cr to less than Rs 75 cr,3 years to less than 5 years,1095,1824,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 500 cr and above,3 years to less than 5 years,1095,1824,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 75 cr to less than Rs 100 cr,3 years to less than 5 years,1095,1824,5.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Above Rs 10 cr to less than Rs 25 Cr,5 years to 10 years,1825,3650,4.4,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 100 cr to less than Rs 200 cr,5 years to 10 years,1825,3650,4.4,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 200 cr to less than Rs 300 cr,5 years to 10 years,1825,3650,4.4,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 25 cr to less than Rs 50 cr,5 years to 10 years,1825,3650,4.4,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 3 cr to Rs 10 Cr,5 years to 10 years,1825,3650,4.4,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 300 cr to less than Rs 500 cr,5 years to 10 years,1825,3650,4.4,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 50 cr to less than Rs 75 cr,5 years to 10 years,1825,3650,4.4,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 500 cr and above,5 years to 10 years,1825,3650,4.4,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Callable,Rs 75 cr to less than Rs 100 cr,5 years to 10 years,1825,3650,4.4,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Above Rs 10 cr to less than Rs 25 Cr,7 days to 15 days,7,15,3.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 100 cr to less than Rs 200 cr,7 days to 15 days,7,15,3.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 200 cr to less than Rs 300 cr,7 days to 15 days,7,15,3.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 25 cr to less than Rs 50 cr,7 days to 15 days,7,15,3.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 3 cr to Rs 10 Cr,7 days to 15 days,7,15,3.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 300 cr to less than Rs 500 cr,7 days to 15 days,7,15,3.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 50 cr to less than Rs 75 Cr,7 days to 15 days,7,15,3.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 500 cr and above,7 days to 15 days,7,15,3.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 75 cr to less than Rs 100 cr,7 days to 15 days,7,15,3.0,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Above Rs 10 cr to less than Rs 25 Cr,16 days < 1 month,16,29,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 100 cr to less than Rs 200 cr,16 days < 1 month,16,29,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 200 cr to less than Rs 300 cr,16 days < 1 month,16,29,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 25 cr to less than Rs 50 cr,16 days < 1 month,16,29,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 3 cr to Rs 10 Cr,16 days < 1 month,16,29,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 300 cr to less than Rs 500 cr,16 days < 1 month,16,29,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 50 cr to less than Rs 75 Cr,16 days < 1 month,16,29,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 500 cr and above,16 days < 1 month,16,29,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 75 cr to less than Rs 100 cr,16 days < 1 month,16,29,3.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Above Rs 10 cr to less than Rs 25 Cr,1 month < 2 months,30,59,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 100 cr to less than Rs 200 cr,1 month < 2 months,30,59,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 200 cr to less than Rs 300 cr,1 month < 2 months,30,59,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 25 cr to less than Rs 50 cr,1 month < 2 months,30,59,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 3 cr to Rs 10 Cr,1 month < 2 months,30,59,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 300 cr to less than Rs 500 cr,1 month < 2 months,30,59,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 50 cr to less than Rs 75 Cr,1 month < 2 months,30,59,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 500 cr and above,1 month < 2 months,30,59,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 75 cr to less than Rs 100 cr,1 month < 2 months,30,59,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Above Rs 10 cr to less than Rs 25 Cr,2 months < 3 months,60,89,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 100 cr to less than Rs 200 cr,2 months < 3 months,60,89,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 200 cr to less than Rs 300 cr,2 months < 3 months,60,89,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 25 cr to less than Rs 50 cr,2 months < 3 months,60,89,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 3 cr to Rs 10 Cr,2 months < 3 months,60,89,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 300 cr to less than Rs 500 cr,2 months < 3 months,60,89,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 50 cr to less than Rs 75 Cr,2 months < 3 months,60,89,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 500 cr and above,2 months < 3 months,60,89,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 75 cr to less than Rs 100 cr,2 months < 3 months,60,89,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Above Rs 10 cr to less than Rs 25 Cr,3 months < 4 months,90,119,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 100 cr to less than Rs 200 cr,3 months < 4 months,90,119,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 200 cr to less than Rs 300 cr,3 months < 4 months,90,119,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 25 cr to less than Rs 50 cr,3 months < 4 months,90,119,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 3 cr to Rs 10 Cr,3 months < 4 months,90,119,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 300 cr to less than Rs 500 cr,3 months < 4 months,90,119,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 50 cr to less than Rs 75 Cr,3 months < 4 months,90,119,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 500 cr and above,3 months < 4 months,90,119,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 75 cr to less than Rs 100 cr,3 months < 4 months,90,119,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Above Rs 10 cr to less than Rs 25 Cr,4 months < 5 months,120,149,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 100 cr to less than Rs 200 cr,4 months < 5 months,120,149,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 200 cr to less than Rs 300 cr,4 months < 5 months,120,149,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 25 cr to less than Rs 50 cr,4 months < 5 months,120,149,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 3 cr to Rs 10 Cr,4 months < 5 months,120,149,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 300 cr to less than Rs 500 cr,4 months < 5 months,120,149,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 50 cr to less than Rs 75 Cr,4 months < 5 months,120,149,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 500 cr and above,4 months < 5 months,120,149,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 75 cr to less than Rs 100 cr,4 months < 5 months,120,149,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Above Rs 10 cr to less than Rs 25 Cr,5 months < 6 months,150,179,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 100 cr to less than Rs 200 cr,5 months < 6 months,150,179,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 200 cr to less than Rs 300 cr,5 months < 6 months,150,179,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 25 cr to less than Rs 50 cr,5 months < 6 months,150,179,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 3 cr to Rs 10 Cr,5 months < 6 months,150,179,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 300 cr to less than Rs 500 cr,5 months < 6 months,150,179,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 50 cr to less than Rs 75 Cr,5 months < 6 months,150,179,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 500 cr and above,5 months < 6 months,150,179,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 75 cr to less than Rs 100 cr,5 months < 6 months,150,179,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Above Rs 10 cr to less than Rs 25 Cr,6 months < 7 months,180,209,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 100 cr to less than Rs 200 cr,6 months < 7 months,180,209,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 200 cr to less than Rs 300 cr,6 months < 7 months,180,209,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 25 cr to less than Rs 50 cr,6 months < 7 months,180,209,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 3 cr to Rs 10 Cr,6 months < 7 months,180,209,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 300 cr to less than Rs 500 cr,6 months < 7 months,180,209,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 50 cr to less than Rs 75 Cr,6 months < 7 months,180,209,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 500 cr and above,6 months < 7 months,180,209,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 75 cr to less than Rs 100 cr,6 months < 7 months,180,209,3.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Above Rs 10 cr to less than Rs 25 Cr,7 months < 8 months,210,239,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 100 cr to less than Rs 200 cr,7 months < 8 months,210,239,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 200 cr to less than Rs 300 cr,7 months < 8 months,210,239,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 25 cr to less than Rs 50 cr,7 months < 8 months,210,239,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 3 cr to Rs 10 Cr,7 months < 8 months,210,239,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 300 cr to less than Rs 500 cr,7 months < 8 months,210,239,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 50 cr to less than Rs 75 Cr,7 months < 8 months,210,239,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 500 cr and above,7 months < 8 months,210,239,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 75 cr to less than Rs 100 cr,7 months < 8 months,210,239,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Above Rs 10 cr to less than Rs 25 Cr,8 months < 9 months,240,269,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 100 cr to less than Rs 200 cr,8 months < 9 months,240,269,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 200 cr to less than Rs 300 cr,8 months < 9 months,240,269,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 25 cr to less than Rs 50 cr,8 months < 9 months,240,269,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 3 cr to Rs 10 Cr,8 months < 9 months,240,269,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 300 cr to less than Rs 500 cr,8 months < 9 months,240,269,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 50 cr to less than Rs 75 Cr,8 months < 9 months,240,269,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 500 cr and above,8 months < 9 months,240,269,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 75 cr to less than Rs 100 cr,8 months < 9 months,240,269,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Above Rs 10 cr to less than Rs 25 Cr,9 months < 10 months,270,299,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 100 cr to less than Rs 200 cr,9 months < 10 months,270,299,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 200 cr to less than Rs 300 cr,9 months < 10 months,270,299,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 25 cr to less than Rs 50 cr,9 months < 10 months,270,299,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 3 cr to Rs 10 Cr,9 months < 10 months,270,299,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 300 cr to less than Rs 500 cr,9 months < 10 months,270,299,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 50 cr to less than Rs 75 Cr,9 months < 10 months,270,299,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 500 cr and above,9 months < 10 months,270,299,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 75 cr to less than Rs 100 cr,9 months < 10 months,270,299,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Above Rs 10 cr to less than Rs 25 Cr,10 months < 11 months,300,329,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 100 cr to less than Rs 200 cr,10 months < 11 months,300,329,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 200 cr to less than Rs 300 cr,10 months < 11 months,300,329,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 25 cr to less than Rs 50 cr,10 months < 11 months,300,329,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 3 cr to Rs 10 Cr,10 months < 11 months,300,329,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 300 cr to less than Rs 500 cr,10 months < 11 months,300,329,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 50 cr to less than Rs 75 Cr,10 months < 11 months,300,329,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 500 cr and above,10 months < 11 months,300,329,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 75 cr to less than Rs 100 cr,10 months < 11 months,300,329,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Above Rs 10 cr to less than Rs 25 Cr,11 months < 12 months,330,364,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 100 cr to less than Rs 200 cr,11 months < 12 months,330,364,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 200 cr to less than Rs 300 cr,11 months < 12 months,330,364,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 25 cr to less than Rs 50 cr,11 months < 12 months,330,364,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 3 cr to Rs 10 Cr,11 months < 12 months,330,364,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 300 cr to less than Rs 500 cr,11 months < 12 months,330,364,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 50 cr to less than Rs 75 Cr,11 months < 12 months,330,364,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 500 cr and above,11 months < 12 months,330,364,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 75 cr to less than Rs 100 cr,11 months < 12 months,330,364,6.75,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Above Rs 10 cr to less than Rs 25 Cr,12 months,365,365,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 100 cr to less than Rs 200 cr,12 months,365,365,7.3,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 200 cr to less than Rs 300 cr,12 months,365,365,7.3,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 25 cr to less than Rs 50 cr,12 months,365,365,7.3,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 3 cr to Rs 10 Cr,12 months,365,365,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 300 cr to less than Rs 500 cr,12 months,365,365,7.3,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 50 cr to less than Rs 75 Cr,12 months,365,365,7.3,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 500 cr and above,12 months,365,365,7.3,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 75 cr to less than Rs 100 cr,12 months,365,365,7.3,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Above Rs 10 cr to less than Rs 25 Cr,12 months 1 day < 13 months,366,394,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 100 cr to less than Rs 200 cr,12 months 1 day < 13 months,366,394,7.3,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 200 cr to less than Rs 300 cr,12 months 1 day < 13 months,366,394,7.3,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 25 cr to less than Rs 50 cr,12 months 1 day < 13 months,366,394,7.3,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 3 cr to Rs 10 Cr,12 months 1 day < 13 months,366,394,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 300 cr to less than Rs 500 cr,12 months 1 day < 13 months,366,394,7.3,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 50 cr to less than Rs 75 Cr,12 months 1 day < 13 months,366,394,7.3,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 500 cr and above,12 months 1 day < 13 months,366,394,7.3,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 75 cr to less than Rs 100 cr,12 months 1 day < 13 months,366,394,7.3,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Above Rs 10 cr to less than Rs 25 Cr,13 months < 14 months,395,424,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 100 cr to less than Rs 200 cr,13 months < 14 months,395,424,6.85,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 200 cr to less than Rs 300 cr,13 months < 14 months,395,424,6.85,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 25 cr to less than Rs 50 cr,13 months < 14 months,395,424,6.85,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 3 cr to Rs 10 Cr,13 months < 14 months,395,424,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 300 cr to less than Rs 500 cr,13 months < 14 months,395,424,6.85,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 50 cr to less than Rs 75 Cr,13 months < 14 months,395,424,6.85,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 500 cr and above,13 months < 14 months,395,424,6.85,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 75 cr to less than Rs 100 cr,13 months < 14 months,395,424,6.85,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Above Rs 10 cr to less than Rs 25 Cr,14 months < 15 months,425,454,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 100 cr to less than Rs 200 cr,14 months < 15 months,425,454,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 200 cr to less than Rs 300 cr,14 months < 15 months,425,454,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 25 cr to less than Rs 50 cr,14 months < 15 months,425,454,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 3 cr to Rs 10 Cr,14 months < 15 months,425,454,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 300 cr to less than Rs 500 cr,14 months < 15 months,425,454,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 50 cr to less than Rs 75 Cr,14 months < 15 months,425,454,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 500 cr and above,14 months < 15 months,425,454,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 75 cr to less than Rs 100 cr,14 months < 15 months,425,454,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Above Rs 10 cr to less than Rs 25 Cr,15 months < 16 months,455,484,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 100 cr to less than Rs 200 cr,15 months < 16 months,455,484,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 200 cr to less than Rs 300 cr,15 months < 16 months,455,484,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 25 cr to less than Rs 50 cr,15 months < 16 months,455,484,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 3 cr to Rs 10 Cr,15 months < 16 months,455,484,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 300 cr to less than Rs 500 cr,15 months < 16 months,455,484,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 50 cr to less than Rs 75 Cr,15 months < 16 months,455,484,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 500 cr and above,15 months < 16 months,455,484,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 75 cr to less than Rs 100 cr,15 months < 16 months,455,484,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Above Rs 10 cr to less than Rs 25 Cr,16 months < 17 months,485,514,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 100 cr to less than Rs 200 cr,16 months < 17 months,485,514,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 200 cr to less than Rs 300 cr,16 months < 17 months,485,514,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 25 cr to less than Rs 50 cr,16 months < 17 months,485,514,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 3 cr to Rs 10 Cr,16 months < 17 months,485,514,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 300 cr to less than Rs 500 cr,16 months < 17 months,485,514,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 50 cr to less than Rs 75 Cr,16 months < 17 months,485,514,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 500 cr and above,16 months < 17 months,485,514,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 75 cr to less than Rs 100 cr,16 months < 17 months,485,514,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Above Rs 10 cr to less than Rs 25 Cr,17 months < 18 months,515,544,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 100 cr to less than Rs 200 cr,17 months < 18 months,515,544,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 200 cr to less than Rs 300 cr,17 months < 18 months,515,544,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 25 cr to less than Rs 50 cr,17 months < 18 months,515,544,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 3 cr to Rs 10 Cr,17 months < 18 months,515,544,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 300 cr to less than Rs 500 cr,17 months < 18 months,515,544,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 50 cr to less than Rs 75 Cr,17 months < 18 months,515,544,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 500 cr and above,17 months < 18 months,515,544,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 75 cr to less than Rs 100 cr,17 months < 18 months,515,544,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Above Rs 10 cr to less than Rs 25 Cr,18 months < 2 years,545,729,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 100 cr to less than Rs 200 cr,18 months < 2 years,545,729,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 200 cr to less than Rs 300 cr,18 months < 2 years,545,729,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 25 cr to less than Rs 50 cr,18 months < 2 years,545,729,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 3 cr to Rs 10 Cr,18 months < 2 years,545,729,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 300 cr to less than Rs 500 cr,18 months < 2 years,545,729,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 50 cr to less than Rs 75 Cr,18 months < 2 years,545,729,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 500 cr and above,18 months < 2 years,545,729,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 75 cr to less than Rs 100 cr,18 months < 2 years,545,729,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Above Rs 10 cr to less than Rs 25 Cr,2 years to less than 3 years,730,1094,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 100 cr to less than Rs 200 cr,2 years to less than 3 years,730,1094,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 200 cr to less than Rs 300 cr,2 years to less than 3 years,730,1094,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 25 cr to less than Rs 50 cr,2 years to less than 3 years,730,1094,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 3 cr to Rs 10 Cr,2 years to less than 3 years,730,1094,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 300 cr to less than Rs 500 cr,2 years to less than 3 years,730,1094,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 50 cr to less than Rs 75 Cr,2 years to less than 3 years,730,1094,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 500 cr and above,2 years to less than 3 years,730,1094,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 75 cr to less than Rs 100 cr,2 years to less than 3 years,730,1094,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Above Rs 10 cr to less than Rs 25 Cr,3 years to less than 5 years,1095,1824,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 100 cr to less than Rs 200 cr,3 years to less than 5 years,1095,1824,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 200 cr to less than Rs 300 cr,3 years to less than 5 years,1095,1824,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 25 cr to less than Rs 50 cr,3 years to less than 5 years,1095,1824,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 3 cr to Rs 10 Cr,3 years to less than 5 years,1095,1824,5.25,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 300 cr to less than Rs 500 cr,3 years to less than 5 years,1095,1824,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 50 cr to less than Rs 75 Cr,3 years to less than 5 years,1095,1824,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 500 cr and above,3 years to less than 5 years,1095,1824,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 75 cr to less than Rs 100 cr,3 years to less than 5 years,1095,1824,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Above Rs 10 cr to less than Rs 25 Cr,5 years to 10 years,1825,3650,4.9,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 100 cr to less than Rs 200 cr,5 years to 10 years,1825,3650,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 200 cr to less than Rs 300 cr,5 years to 10 years,1825,3650,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 25 cr to less than Rs 50 cr,5 years to 10 years,1825,3650,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 3 cr to Rs 10 Cr,5 years to 10 years,1825,3650,4.9,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 300 cr to less than Rs 500 cr,5 years to 10 years,1825,3650,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 50 cr to less than Rs 75 Cr,5 years to 10 years,1825,3650,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 500 cr and above,5 years to 10 years,1825,3650,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51
+BANDHAN,Non-Callable,Rs 75 cr to less than Rs 100 cr,5 years to 10 years,1825,3650,6.5,2026-10-05,https://bandhan.bank.in/rates-charges,official_html,2026-10-15T15:05:51

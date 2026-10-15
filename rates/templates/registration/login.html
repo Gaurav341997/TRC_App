@@ -1,0 +1,33 @@
+{% extends "rates/base.html" %}
+{% load static %}
+{% block body %}
+<div class="login-wrap">
+  <div class="login-card-wrap">
+    <div class="login-head">
+      <div class="login-logo">₹</div>
+      <h1>Treasury Rate Console</h1>
+      <p>Sign in to manage rate sheets</p>
+    </div>
+    <form class="login-card" method="post" action="{% url 'login' %}">
+      {% csrf_token %}
+      {% if form.errors %}
+        <div class="login-err">
+          Invalid username or password. Please try again.
+        </div>
+      {% endif %}
+      <label for="id_username">Username</label>
+      <input type="text" name="username" id="id_username" required autofocus placeholder="admin or user">
+      
+      <label for="id_password">Password</label>
+      <input type="password" name="password" id="id_password" required placeholder="••••••••">
+      
+      <button type="submit">Sign In</button>
+    </form>
+    <div class="login-demo">
+      <p style="margin-bottom:4px;"><strong>Demo Credentials:</strong></p>
+      <p style="margin:2px 0;">Admin (Full Access): <code>admin</code> / <code>admin123</code></p>
+      <p style="margin:2px 0;">User (Draft Only): <code>user</code> / <code>user123</code></p>
+    </div>
+  </div>
+</div>
+{% endblock %}

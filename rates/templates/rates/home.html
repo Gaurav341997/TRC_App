@@ -1,0 +1,203 @@
+{% extends "rates/base.html" %}
+
+{% block body %}
+
+{% url "dashboard" as dashboard_url %}
+{% url "retail_comparison" as retail_url %}
+{% url "bulk_comparison" as bulk_url %}
+{% url "nre_nro_comparison" as nre_nro_url %}
+{% url "logout" as logout_url %}
+
+<header class="topbar">
+    <div class="topbar-inner">
+        <div class="brand">
+            <div class="brand-mark">INR</div>
+            <span class="brand-name">Treasury Rate Console</span>
+
+            {% if is_admin %}
+                <a href="/admin/"
+                   class="role-chip role-admin"
+                   style="text-decoration:none;"
+                   title="Open Admin Panel">
+                    Administrator
+                </a>
+
+                <a href="/admin/auth/user/" class="manage-users-link">
+                    Manage Users
+                </a>
+            {% else %}
+                <span class="role-chip role-user">Treasury User</span>
+            {% endif %}
+        </div>
+
+        <div class="topbar-actions">
+            <form action="{{ logout_url }}" method="post" class="logout-form">
+                {% csrf_token %}
+                <button type="submit" class="signout">Sign out</button>
+            </form>
+        </div>
+    </div>
+</header>
+
+<main class="trc-home">
+    <section class="trc-home-hero">
+        <div class="trc-home-hero-content">
+            <span class="trc-home-eyebrow">TREASURY RATE CONSOLE</span>
+
+            <h1>Select a Treasury module</h1>
+
+            <p>
+                Access the Rate Console, Retail TD, Bulk TD and NRE/NRO
+                comparison dashboards from one place.
+            </p>
+        </div>
+    </section>
+
+    <section class="trc-module-grid" aria-label="Treasury modules">
+
+        <!-- Module 01: Rate Console -->
+        <a href="{{ dashboard_url }}"
+           class="trc-module-card trc-module-console{% if not can_access_console %} trc-module-locked{% endif %}"
+           title="{% if can_access_console %}Open Rate Console{% else %}Access Restricted - Contact Administrator for permission{% endif %}">
+            <div class="trc-module-icon">
+                <svg width="28" height="28" viewBox="0 0 24 24"
+                     fill="none" stroke="currentColor" stroke-width="2"
+                     stroke-linecap="round" stroke-linejoin="round"
+                     aria-hidden="true">
+                    <rect x="3" y="3" width="18" height="18" rx="3"></rect>
+                    <line x1="3" y1="9" x2="21" y2="9"></line>
+                    <line x1="9" y1="21" x2="9" y2="9"></line>
+                </svg>
+            </div>
+
+            <div class="trc-module-content">
+                <span class="trc-module-number">MODULE 01</span>
+                <h2>Rate Console</h2>
+                <p>
+                    Manage working drafts, published rate cards, rate history,
+                    uploads and Treasury rate approvals.
+                </p>
+                {% if can_access_console %}
+                    <span class="trc-module-action-text">Open Rate Console</span>
+                {% else %}
+                    <span class="module-perm-badge locked">No Permission</span>
+                    <span class="trc-module-action-text" style="color:#ef4444;font-size:12px;">Restricted</span>
+                {% endif %}
+            </div>
+
+            <span class="trc-module-arrow" aria-hidden="true">{% if can_access_console %}&#8594;{% else %}&#128274;{% endif %}</span>
+        </a>
+
+        <!-- Module 02: Retail TD -->
+        <a href="{{ retail_url }}"
+           class="trc-module-card trc-module-retail{% if not can_access_retail %} trc-module-locked{% endif %}"
+           title="{% if can_access_retail %}Open Retail Dashboard{% else %}Access Restricted - Contact Administrator for permission{% endif %}">
+            <div class="trc-module-icon">
+                <svg width="28" height="28" viewBox="0 0 24 24"
+                     fill="none" stroke="currentColor" stroke-width="2"
+                     stroke-linecap="round" stroke-linejoin="round"
+                     aria-hidden="true">
+                    <path d="M3 21h18"></path>
+                    <path d="M5 21V10"></path>
+                    <path d="M19 21V10"></path>
+                    <path d="M3 10l9-7 9 7"></path>
+                    <path d="M9 21v-6h6v6"></path>
+                </svg>
+            </div>
+
+            <div class="trc-module-content">
+                <span class="trc-module-number">MODULE 02</span>
+                <h2>Retail TD</h2>
+                <p>
+                    Compare Regular and Senior Citizen deposit rates, review
+                    peak rates and download the latest Retail workbook.
+                </p>
+                {% if can_access_retail %}
+                    <span class="trc-module-action-text">Open Retail Dashboard</span>
+                {% else %}
+                    <span class="module-perm-badge locked">No Permission</span>
+                    <span class="trc-module-action-text" style="color:#ef4444;font-size:12px;">Restricted</span>
+                {% endif %}
+            </div>
+
+            <span class="trc-module-arrow" aria-hidden="true">{% if can_access_retail %}&#8594;{% else %}&#128274;{% endif %}</span>
+        </a>
+
+        <!-- Module 03: Bulk TD -->
+        <a href="{{ bulk_url }}"
+           class="trc-module-card trc-module-bulk{% if not can_access_bulk %} trc-module-locked{% endif %}"
+           title="{% if can_access_bulk %}Open Bulk Dashboard{% else %}Access Restricted - Contact Administrator for permission{% endif %}">
+            <div class="trc-module-icon">
+                <svg width="28" height="28" viewBox="0 0 24 24"
+                     fill="none" stroke="currentColor" stroke-width="2"
+                     stroke-linecap="round" stroke-linejoin="round"
+                     aria-hidden="true">
+                    <ellipse cx="12" cy="5" rx="8" ry="3"></ellipse>
+                    <path d="M4 5v6c0 1.7 3.6 3 8 3s8-1.3 8-3V5"></path>
+                    <path d="M4 11v6c0 1.7 3.6 3 8 3s8-1.3 8-3v-6"></path>
+                </svg>
+            </div>
+
+            <div class="trc-module-content">
+                <span class="trc-module-number">MODULE 03</span>
+                <h2>Bulk TD</h2>
+                <p>
+                    Compare Bulk TD rates for Rs. 3 crore to Rs. 10 crore and
+                    Rs. 10 crore and above across participating banks.
+                </p>
+                {% if can_access_bulk %}
+                    <span class="trc-module-action-text">Open Bulk Dashboard</span>
+                {% else %}
+                    <span class="module-perm-badge locked">No Permission</span>
+                    <span class="trc-module-action-text" style="color:#ef4444;font-size:12px;">Restricted</span>
+                {% endif %}
+            </div>
+
+            <span class="trc-module-arrow" aria-hidden="true">{% if can_access_bulk %}&#8594;{% else %}&#128274;{% endif %}</span>
+        </a>
+
+        <!-- Module 04: NRE/NRO TD -->
+        <a href="{{ nre_nro_url }}"
+           class="trc-module-card trc-module-nre{% if not can_access_nre_nro %} trc-module-locked{% endif %}"
+           title="{% if can_access_nre_nro %}Open NRE/NRO Dashboard{% else %}Access Restricted - Contact Administrator for permission{% endif %}">
+            <div class="trc-module-icon">
+                <svg width="28" height="28" viewBox="0 0 24 24"
+                     fill="none" stroke="currentColor" stroke-width="2"
+                     stroke-linecap="round" stroke-linejoin="round"
+                     aria-hidden="true">
+                    <circle cx="12" cy="12" r="9"></circle>
+                    <line x1="3" y1="12" x2="21" y2="12"></line>
+                    <path d="M12 3a15 15 0 0 1 0 18"></path>
+                    <path d="M12 3a15 15 0 0 0 0 18"></path>
+                </svg>
+            </div>
+
+            <div class="trc-module-content">
+                <span class="trc-module-number">MODULE 04</span>
+                <h2>NRE/NRO TD</h2>
+                <p>
+                    View NRE and NRO deposit-rate comparisons, benchmark
+                    tenures and peak rates across banks.
+                </p>
+                {% if can_access_nre_nro %}
+                    <span class="trc-module-action-text">Open NRE/NRO Dashboard</span>
+                {% else %}
+                    <span class="module-perm-badge locked">No Permission</span>
+                    <span class="trc-module-action-text" style="color:#ef4444;font-size:12px;">Restricted</span>
+                {% endif %}
+            </div>
+
+            <span class="trc-module-arrow" aria-hidden="true">{% if can_access_nre_nro %}&#8594;{% else %}&#128274;{% endif %}</span>
+        </a>
+    </section>
+
+    <section class="trc-home-footer-note">
+        <span class="trc-footer-status" aria-hidden="true"></span>
+        <span>
+            Select a module to continue. Access is controlled using the
+            existing TRC authentication and permissions.
+        </span>
+    </section>
+</main>
+
+{% endblock %}

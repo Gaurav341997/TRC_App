@@ -1,0 +1,59 @@
+{% extends "rates/base.html" %}
+
+{% block body %}
+<header class="topbar">
+    <div class="topbar-inner">
+        <div class="brand">
+            <div class="brand-mark">INR</div>
+            <span class="brand-name">Treasury Rates</span>
+            {% if is_admin %}
+                <a href="/admin/" class="role-chip role-admin" title="Open Admin Panel">Administrator</a>
+            {% else %}
+                <span class="role-chip role-user">Treasury User</span>
+            {% endif %}
+        </div>
+
+        <div class="topbar-actions">
+            <a href="{% url 'home' %}" class="topbar-home-button" title="Back to Modules Hub">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M3 11L12 3L21 11"></path>
+                    <path d="M5 10V21H19V10"></path>
+                    <path d="M9 21V14H15V21"></path>
+                </svg>
+                <span>Modules Hub</span>
+            </a>
+
+            <form action="{% url 'logout' %}" method="post" class="logout-form">
+                {% csrf_token %}
+                <button type="submit" class="signout">Sign out</button>
+            </form>
+        </div>
+    </div>
+</header>
+
+<main class="trc-home" style="display:flex;align-items:center;justify-content:center;min-height:75vh;padding:24px;">
+    <div style="max-width:540px;width:100%;background:#ffffff;border:1px solid #e2e8f0;border-radius:16px;box-shadow:0 10px 30px rgba(15,23,42,0.08);padding:40px 32px;text-align:center;">
+        <div style="width:64px;height:64px;margin:0 auto 20px;border-radius:50%;background:#fef2f2;border:1px solid #fee2e2;display:flex;align-items:center;justify-content:center;color:#ef4444;">
+            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+                <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+            </svg>
+        </div>
+
+        <h1 style="font-size:22px;font-weight:800;color:#0f172a;margin-bottom:12px;">Access Restricted</h1>
+        <p style="font-size:14px;color:#64748b;line-height:1.6;margin-bottom:24px;">
+            You do not have permission to access the <strong>{{ module_name }}</strong> module.
+            Please reach out to your Treasury Administrator to request module access.
+        </p>
+
+        <div style="display:flex;justify-content:center;gap:12px;">
+            <a href="{% url 'home' %}" style="display:inline-flex;align-items:center;gap:8px;padding:10px 22px;background:#0b1220;color:#ffffff;text-decoration:none;font-size:14px;font-weight:700;border-radius:8px;box-shadow:0 4px 12px rgba(11,18,32,0.2);">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M19 12H5M12 19l-7-7 7-7"/>
+                </svg>
+                Return to Modules Hub
+            </a>
+        </div>
+    </div>
+</main>
+{% endblock %}

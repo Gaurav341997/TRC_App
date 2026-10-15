@@ -1,0 +1,70 @@
+﻿BankName,WithdrawalType,AmountSlab,Tenure,StartDay,EndDay,Rate,EffectiveDate,SourceURL,ExtractionMode,ScrapedAt
+BOI,Callable,10 Cr to <25 Cr,7 days to 14 days,7,14,5.5,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,25 Cr and above,7 days to 14 days,7,14,5.5,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,3 Cr to <10 Cr,7 days to 14 days,7,14,4.5,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,10 Cr to <25 Cr,15 days to 30 days,15,30,5.55,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,25 Cr and above,15 days to 30 days,15,30,5.55,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,3 Cr to <10 Cr,15 days to 30 days,15,30,5.0,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,10 Cr to <25 Cr,31 days to 45 days,31,45,5.7,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,25 Cr and above,31 days to 45 days,31,45,5.7,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,3 Cr to <10 Cr,31 days to 45 days,31,45,5.0,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,10 Cr to <25 Cr,46 days to 90 days,46,90,5.85,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,25 Cr and above,46 days to 90 days,46,90,5.85,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,3 Cr to <10 Cr,46 days to 90 days,46,90,5.0,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,10 Cr to <25 Cr,91 days to 179 days,91,179,6.1,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,25 Cr and above,91 days to 179 days,91,179,6.1,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,3 Cr to <10 Cr,91 days to 179 days,91,179,5.5,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,10 Cr to <25 Cr,180 days to 210 days,180,210,6.25,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,25 Cr and above,180 days to 210 days,180,210,6.25,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,3 Cr to <10 Cr,180 days to 210 days,180,210,5.75,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,10 Cr to <25 Cr,211 days to 269 days,211,269,6.25,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,25 Cr and above,211 days to 269 days,211,269,6.25,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,3 Cr to <10 Cr,211 days to 269 days,211,269,5.75,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,10 Cr to <25 Cr,270 days to less than 1 year,270,364,6.35,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,25 Cr and above,270 days to less than 1 year,270,364,6.35,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,3 Cr to <10 Cr,270 days to less than 1 year,270,364,5.75,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,10 Cr to <25 Cr,1 year,365,365,6.6,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,25 Cr and above,1 year,365,365,6.6,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,3 Cr to <10 Cr,1 year,365,365,6.5,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,10 Cr to <25 Cr,Above 1 year to less than 2 years,366,729,6.4,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,25 Cr and above,Above 1 year to less than 2 years,366,729,6.4,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,3 Cr to <10 Cr,Above 1 year to less than 2 years,366,729,6.25,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,10 Cr to <25 Cr,2 years to less than 3 years,730,1094,6.15,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,25 Cr and above,2 years to less than 3 years,730,1094,6.15,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,3 Cr to <10 Cr,2 years to less than 3 years,730,1094,6.0,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,10 Cr to <25 Cr,3 years to less than 5 years,1095,1824,5.7,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,25 Cr and above,3 years to less than 5 years,1095,1824,5.7,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,3 Cr to <10 Cr,3 years to less than 5 years,1095,1824,5.5,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,10 Cr to <25 Cr,5 years to 10 years,1825,3650,5.7,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,25 Cr and above,5 years to 10 years,1825,3650,5.7,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Callable,3 Cr to <10 Cr,5 years to 10 years,1825,3650,5.5,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,10 Cr to <25 Cr,46 days to 90 days,46,90,6.0,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,25 Cr and above,46 days to 90 days,46,90,6.0,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,3 Cr to <10 Cr,46 days to 90 days,46,90,5.15,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,10 Cr to <25 Cr,91 days to 179 days,91,179,6.25,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,25 Cr and above,91 days to 179 days,91,179,6.25,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,3 Cr to <10 Cr,91 days to 179 days,91,179,5.65,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,10 Cr to <25 Cr,180 days to 210 days,180,210,6.4,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,25 Cr and above,180 days to 210 days,180,210,6.4,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,3 Cr to <10 Cr,180 days to 210 days,180,210,5.9,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,10 Cr to <25 Cr,211 days to 269 days,211,269,6.4,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,25 Cr and above,211 days to 269 days,211,269,6.4,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,3 Cr to <10 Cr,211 days to 269 days,211,269,5.9,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,10 Cr to <25 Cr,270 days to less than 1 year,270,364,6.5,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,25 Cr and above,270 days to less than 1 year,270,364,6.5,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,3 Cr to <10 Cr,270 days to less than 1 year,270,364,5.9,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,10 Cr to <25 Cr,1 year,365,365,6.75,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,25 Cr and above,1 year,365,365,6.75,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,3 Cr to <10 Cr,1 year,365,365,6.65,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,10 Cr to <25 Cr,Above 1 year to less than 2 years,366,729,6.55,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,25 Cr and above,Above 1 year to less than 2 years,366,729,6.55,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,3 Cr to <10 Cr,Above 1 year to less than 2 years,366,729,6.4,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,10 Cr to <25 Cr,2 years to less than 3 years,730,1094,6.3,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,25 Cr and above,2 years to less than 3 years,730,1094,6.3,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,3 Cr to <10 Cr,2 years to less than 3 years,730,1094,6.15,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,10 Cr to <25 Cr,3 years to less than 5 years,1095,1824,5.85,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,25 Cr and above,3 years to less than 5 years,1095,1824,5.85,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,3 Cr to <10 Cr,3 years to less than 5 years,1095,1824,5.65,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,10 Cr to <25 Cr,5 years to 10 years,1825,3650,5.85,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,25 Cr and above,5 years to 10 years,1825,3650,5.85,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03
+BOI,Non-Callable,3 Cr to <10 Cr,5 years to 10 years,1825,3650,5.65,2026-02-02,manual:boi.html,manual_html,2026-10-15T17:42:03

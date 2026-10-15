@@ -1,0 +1,36 @@
+# ========================================================
+# Treasury Rate Console - Dependencies
+# ========================================================
+
+# Core Django & Server
+Django>=5.0.0,<5.1.0
+asgiref>=3.8.0
+sqlparse>=0.5.0
+tzdata>=2024.1
+python-dotenv>=1.0.0
+
+# Database (PostgreSQL driver for production/UAT)
+psycopg2-binary>=2.9.9
+
+# SAML SSO Authentication
+djangosaml2>=1.12.0
+pysaml2>=7.5.0
+cryptography>=42.0.0
+defusedxml>=0.7.1
+
+# Excel Processing & Rate Generation
+openpyxl>=3.1.2
+pandas>=2.2.0
+numpy>=1.26.0
+
+# AWS S3 Storage & API
+boto3>=1.34.0
+botocore>=1.34.0
+
+# Web Scraping & PDF Parsing (Comparison Engine)
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=5.1.0
+pypdf>=4.0.0
+pdfplumber>=0.11.0
+selenium>=4.20.0

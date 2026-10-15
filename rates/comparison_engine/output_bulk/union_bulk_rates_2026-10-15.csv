@@ -1,0 +1,127 @@
+﻿BankName,WithdrawalType,AmountSlab,Tenure,StartDay,EndDay,Rate,EffectiveDate,SourceURL,ExtractionMode,ScrapedAt
+UNION,Callable,3 Cr to 10 Cr,7-14 Days,7,14,2.7,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 10 Cr to 25 Cr,7-14 Days,7,14,3.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 100 Cr to 500 Cr,7-14 Days,7,14,4.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 25 Cr to 50 Cr,7-14 Days,7,14,3.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 50 Cr to 100 Cr,7-14 Days,7,14,3.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 500 Cr,7-14 Days,7,14,5.51,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,3 Cr to 10 Cr,15-30 Days,15,30,2.8,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 10 Cr to 25 Cr,15-30 Days,15,30,3.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 100 Cr to 500 Cr,15-30 Days,15,30,4.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 25 Cr to 50 Cr,15-30 Days,15,30,3.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 50 Cr to 100 Cr,15-30 Days,15,30,3.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 500 Cr,15-30 Days,15,30,4.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,3 Cr to 10 Cr,31-45 Days,31,45,2.95,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 10 Cr to 25 Cr,31-45 Days,31,45,3.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 100 Cr to 500 Cr,31-45 Days,31,45,4.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 25 Cr to 50 Cr,31-45 Days,31,45,4.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 50 Cr to 100 Cr,31-45 Days,31,45,4.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 500 Cr,31-45 Days,31,45,4.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,3 Cr to 10 Cr,46-90 Days,46,90,3.75,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 10 Cr to 25 Cr,46-90 Days,46,90,3.75,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 100 Cr to 500 Cr,46-90 Days,46,90,5.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 25 Cr to 50 Cr,46-90 Days,46,90,4.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 50 Cr to 100 Cr,46-90 Days,46,90,4.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 500 Cr,46-90 Days,46,90,5.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,3 Cr to 10 Cr,91- 120 Days,91,120,4.05,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 10 Cr to 25 Cr,91- 120 Days,91,120,4.25,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 100 Cr to 500 Cr,91- 120 Days,91,120,5.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 25 Cr to 50 Cr,91- 120 Days,91,120,4.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 50 Cr to 100 Cr,91- 120 Days,91,120,4.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 500 Cr,91- 120 Days,91,120,5.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,3 Cr to 10 Cr,121 - 180 Days,121,180,4.6,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 10 Cr to 25 Cr,121 - 180 Days,121,180,4.7,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 100 Cr to 500 Cr,121 - 180 Days,121,180,5.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 25 Cr to 50 Cr,121 - 180 Days,121,180,5.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 50 Cr to 100 Cr,121 - 180 Days,121,180,5.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 500 Cr,121 - 180 Days,121,180,5.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,3 Cr to 10 Cr,6 Months to < 1 Year,181,364,5.4,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 10 Cr to 25 Cr,6 Months to < 1 Year,181,364,5.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 100 Cr to 500 Cr,6 Months to < 1 Year,181,364,5.9,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 25 Cr to 50 Cr,6 Months to < 1 Year,181,364,5.9,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 50 Cr to 100 Cr,6 Months to < 1 Year,181,364,5.9,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 500 Cr,6 Months to < 1 Year,181,364,5.9,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,3 Cr to 10 Cr,1 Year,365,365,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 10 Cr to 25 Cr,1 Year,365,365,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 100 Cr to 500 Cr,1 Year,365,365,6.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 25 Cr to 50 Cr,1 Year,365,365,6.3,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 50 Cr to 100 Cr,1 Year,365,365,6.3,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 500 Cr,1 Year,365,365,6.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,3 Cr to 10 Cr,>1 Year to 2 years,366,730,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 10 Cr to 25 Cr,>1 Year to 2 years,366,730,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 100 Cr to 500 Cr,>1 Year to 2 years,366,730,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 25 Cr to 50 Cr,>1 Year to 2 years,366,730,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 50 Cr to 100 Cr,>1 Year to 2 years,366,730,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 500 Cr,>1 Year to 2 years,366,730,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,3 Cr to 10 Cr,>2 Year to 996 Days,731,996,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 10 Cr to 25 Cr,>2 Year to 996 Days,731,996,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 100 Cr to 500 Cr,>2 Year to 996 Days,731,996,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 25 Cr to 50 Cr,>2 Year to 996 Days,731,996,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 50 Cr to 100 Cr,>2 Year to 996 Days,731,996,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 500 Cr,>2 Year to 996 Days,731,996,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,3 Cr to 10 Cr,997 Days,997,997,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 10 Cr to 25 Cr,997 Days,997,997,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 100 Cr to 500 Cr,997 Days,997,997,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 25 Cr to 50 Cr,997 Days,997,997,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 50 Cr to 100 Cr,997 Days,997,997,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 500 Cr,997 Days,997,997,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,3 Cr to 10 Cr,998 Days to 3 years,998,1095,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 10 Cr to 25 Cr,998 Days to 3 years,998,1095,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 100 Cr to 500 Cr,998 Days to 3 years,998,1095,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 25 Cr to 50 Cr,998 Days to 3 years,998,1095,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 50 Cr to 100 Cr,998 Days to 3 years,998,1095,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 500 Cr,998 Days to 3 years,998,1095,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,3 Cr to 10 Cr,> 3 Years to 5 Years,1096,1825,5.75,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 10 Cr to 25 Cr,> 3 Years to 5 Years,1096,1825,5.8,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 100 Cr to 500 Cr,> 3 Years to 5 Years,1096,1825,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 25 Cr to 50 Cr,> 3 Years to 5 Years,1096,1825,5.8,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 50 Cr to 100 Cr,> 3 Years to 5 Years,1096,1825,5.8,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 500 Cr,> 3 Years to 5 Years,1096,1825,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,3 Cr to 10 Cr,> 5 Years to 10 Years,1826,3650,5.75,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 10 Cr to 25 Cr,> 5 Years to 10 Years,1826,3650,5.8,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 100 Cr to 500 Cr,> 5 Years to 10 Years,1826,3650,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 25 Cr to 50 Cr,> 5 Years to 10 Years,1826,3650,5.8,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 50 Cr to 100 Cr,> 5 Years to 10 Years,1826,3650,5.8,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Callable,Above 500 Cr,> 5 Years to 10 Years,1826,3650,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,3 Cr to 10 Cr,61 - 90 Days,61,90,4.1,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 10 Cr to 25 Cr,61 - 90 Days,61,90,4.25,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 100 Cr to 500 Cr,61 - 90 Days,61,90,5.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 25 Cr to 50 Cr,61 - 90 Days,61,90,4.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 50 Cr to 100 Cr,61 - 90 Days,61,90,4.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 500 Cr,61 - 90 Days,61,90,5.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,3 Cr to 10 Cr,91 - 120 Days,91,120,4.3,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 10 Cr to 25 Cr,91 - 120 Days,91,120,4.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 100 Cr to 500 Cr,91 - 120 Days,91,120,5.9,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 25 Cr to 50 Cr,91 - 120 Days,91,120,5.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 50 Cr to 100 Cr,91 - 120 Days,91,120,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 500 Cr,91 - 120 Days,91,120,5.9,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,3 Cr to 10 Cr,121 - 180 Days,121,180,4.9,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 10 Cr to 25 Cr,121 - 180 Days,121,180,5.25,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 100 Cr to 500 Cr,121 - 180 Days,121,180,6.3,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 25 Cr to 50 Cr,121 - 180 Days,121,180,5.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 50 Cr to 100 Cr,121 - 180 Days,121,180,6.3,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 500 Cr,121 - 180 Days,121,180,6.3,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,3 Cr to 10 Cr,6 Months to < 1 Year,181,364,5.75,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 10 Cr to 25 Cr,6 Months to < 1 Year,181,364,6.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 100 Cr to 500 Cr,6 Months to < 1 Year,181,364,6.6,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 25 Cr to 50 Cr,6 Months to < 1 Year,181,364,6.6,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 50 Cr to 100 Cr,6 Months to < 1 Year,181,364,6.6,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 500 Cr,6 Months to < 1 Year,181,364,6.6,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,3 Cr to 10 Cr,1 Year,365,365,6.2,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 10 Cr to 25 Cr,1 Year,365,365,6.3,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 100 Cr to 500 Cr,1 Year,365,365,7.05,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 25 Cr to 50 Cr,1 Year,365,365,7.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 50 Cr to 100 Cr,1 Year,365,365,7.05,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 500 Cr,1 Year,365,365,7.0,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,3 Cr to 10 Cr,> 1 Year to 2 Year,366,730,6.2,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 10 Cr to 25 Cr,> 1 Year to 2 Year,366,730,6.3,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 100 Cr to 500 Cr,> 1 Year to 2 Year,366,730,6.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 25 Cr to 50 Cr,> 1 Year to 2 Year,366,730,6.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 50 Cr to 100 Cr,> 1 Year to 2 Year,366,730,6.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 500 Cr,> 1 Year to 2 Year,366,730,6.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,3 Cr to 10 Cr,>2 Year to 3 Years,731,1095,6.15,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 10 Cr to 25 Cr,>2 Year to 3 Years,731,1095,6.25,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 100 Cr to 500 Cr,>2 Year to 3 Years,731,1095,6.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 25 Cr to 50 Cr,>2 Year to 3 Years,731,1095,6.25,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 50 Cr to 100 Cr,>2 Year to 3 Years,731,1095,6.25,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19
+UNION,Non-Callable,Above 500 Cr,>2 Year to 3 Years,731,1095,6.5,2026-10-15,https://www.unionbankofindia.bank.in/pdf/interest-rates-for-bulk-deposit.pdf,official_pdf,2026-10-15T15:05:19

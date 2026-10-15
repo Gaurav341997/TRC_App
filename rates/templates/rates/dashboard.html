@@ -1,0 +1,146 @@
+{% extends "rates/base.html" %}
+{% load static %}
+{% block body %}
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="brand">
+      <div class="brand-mark">INR</div>
+      <span class="brand-name">Treasury Rates</span>
+      {% if is_admin %}
+      <a href="/admin/" class="role-chip role-admin" style="text-decoration:none;"
+        title="Open Admin Panel">Administrator</a>
+      <a href="/admin/auth/user/"
+        style="font-size:13px;color:#6366f1;text-decoration:none;font-weight:600;margin-left:4px;">Manage Users</a>
+      {% else %}
+      <span class="role-chip role-user">Treasury User</span>
+      {% endif %}
+    </div>
+
+    <div class="topbar-actions">
+      <a href="{% url 'home' %}"
+         class="topbar-home-button"
+         title="Go to application home">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M3 11L12 3L21 11"></path>
+          <path d="M5 10V21H19V10"></path>
+          <path d="M9 21V14H15V21"></path>
+        </svg>
+        <span>Home</span>
+      </a>
+
+      <form action="{% url 'logout' %}" method="post" class="logout-form">
+        {% csrf_token %}
+        <button type="submit" class="signout">Sign out</button>
+      </form>
+    </div>
+  </div>
+
+  <div class="tabbar">
+    <div class="tabbar-inner" id="tabs"></div>
+  </div>
+</header>
+
+<main class="main">
+  <section>
+    <div class="sec-head">
+      <h2 id="work-title">Working draft</h2>
+      <span id="status" class="status"></span>
+      <div class="spacer"></div>
+      <button id="btn-download-draft" class="btn ghost" style="border-color:#0284c7;color:#0284c7;font-weight:600;"
+        title="Download working draft as Excel CSV file">Download Working Draft</button>
+      <button id="btn-nominal" class="btn ghost" style="border-color:#d97706;color:#b45309;font-weight:600;display:inline-flex;align-items:center;gap:6px;"
+        title="View rate card converted to Monthly Nominal Rates and download CSV">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+        Nominal Monthly Rate
+      </button>
+      <button id="btn-history" class="btn ghost" style="border-color:#6366f1;color:#4f46e5;font-weight:600;display:inline-flex;align-items:center;gap:6px;"
+        title="View past published rate cards stored in database">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+        Rate Card History
+      </button>
+      <button id="btn-view-full" class="btn primary" style="background:#059669;color:#fff;font-weight:600;display:inline-flex;align-items:center;gap:6px;"
+        title="View complete rate card on screen in a single view without scrolling">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
+        View Full Rate Card
+      </button>
+      <button id="btn-reset" class="btn ghost">Reset</button>
+      {% if not is_admin %}
+      <button id="btn-draft" class="btn primary">Save draft</button>
+      {% else %}
+      <button id="btn-save" class="btn primary">Download Rates</button>
+      {% endif %}
+    </div>
+    <div id="errbox" class="errbox" hidden></div>
+    <div class="card working" id="working"></div>
+    <p class="note">Callable and Non-Callable are edited and saved separately. Amount slabs can't overlap and tenure
+      must ascend - offending rows are outlined in red. Save validates, publishes to this product's fixed table, and
+      downloads the flat file.</p>
+    {% if not is_admin %}<p class="note">You can edit and save a draft, but publishing (Save) is admin-only.</p>{% endif %}
+  </section>
+
+  <section>
+    <div class="sec-head">
+      <h2 id="pub-title">Published rates</h2>
+      <span class="ro">read only</span>
+      <div class="spacer"></div>
+      {% if is_admin %}
+      <input type="file" id="pub-file-input" accept=".csv" style="display:none;" />
+      <button id="btn-save-pub" class="btn primary" style="background:#4338ca;">Save Published Rates</button>
+      <button id="btn-upload-pub" class="btn ghost" style="border-color:#c7d2fe;color:#4338ca;">Replace Published
+        CSV</button>
+      {% endif %}
+    </div>
+    <div class="card" id="published"></div>
+    <p class="note" id="pub-note"></p>
+  </section>
+</main>
+
+<div id="fullview-modal" class="fullview-modal" hidden>
+  <div class="fullview-backdrop" id="fullview-backdrop"></div>
+  <div class="fullview-container">
+    <div class="fullview-header">
+      <div class="fullview-title-group">
+        <span class="fullview-badge" id="fullview-badge">SINGLE SCREEN VIEW</span>
+        <h3 id="fullview-title">Complete Rate Card</h3>
+        <span id="fullview-subtitle" class="fullview-subtitle">Full overview without scrolling</span>
+      </div>
+      <div class="fullview-controls">
+        <button id="btn-fullview-download" class="fullview-btn primary" style="background:#d97706;border-color:#d97706;display:none;" title="Download Nominal Monthly Rates CSV">Download Monthly CSV</button>
+        <button id="btn-fullview-zoom-out" class="fullview-btn" title="Zoom Out">-</button>
+        <span id="fullview-zoom-val" class="fullview-zoom-text">100%</span>
+        <button id="btn-fullview-zoom-in" class="fullview-btn" title="Zoom In">+</button>
+        <button id="btn-fullview-fit" class="fullview-btn primary" title="Auto Fit to Screen">Auto Fit</button>
+        <button id="btn-fullview-close" class="fullview-close" title="Close Single View (Esc)">?</button>
+      </div>
+    </div>
+    <div class="fullview-body" id="fullview-body">
+      <div id="fullview-grid-wrap" class="fullview-grid-wrap"></div>
+    </div>
+  </div>
+</div>
+
+<div id="history-modal" class="fullview-modal" hidden>
+  <div class="fullview-backdrop" id="history-backdrop"></div>
+  <div class="fullview-container" style="max-width:560px;height:auto;max-height:85vh;border-radius:16px;overflow:hidden;box-shadow:0 25px 50px -12px rgba(0,0,0,0.25);">
+    <div class="fullview-header" style="background:#1e293b;padding:16px 20px;">
+      <div class="fullview-title-group">
+        <span class="fullview-badge" style="background:#6366f1;">DB RATE ARCHIVE</span>
+        <h3 id="history-modal-title" style="color:#ffffff;margin:4px 0 0 0;font-size:18px;">Rate Card History</h3>
+        <span class="fullview-subtitle" style="color:#94a3b8;font-size:12px;">Select a past published effective date to view</span>
+      </div>
+      <button id="btn-history-close" class="fullview-close" title="Close (Esc)" style="background:rgba(255,255,255,0.1);color:#fff;border-radius:8px;width:32px;height:32px;display:flex;align-items:center;justify-content:center;border:none;cursor:pointer;">?</button>
+    </div>
+    <div class="fullview-body" style="padding:20px;background:#f8fafc;overflow-y:auto;max-height:calc(85vh - 90px);">
+      <div id="history-list-wrap"></div>
+    </div>
+  </div>
+</div>
+
+<script id="data-json" type="application/json">{{ data_json|safe }}</script>
+<script id="admin-json" type="application/json">{{ is_admin|yesno:"true,false" }}</script>
+<script>
+  window.__DATA__ = JSON.parse(document.getElementById("data-json").textContent || "{}");
+  window.__IS_ADMIN__ = JSON.parse(document.getElementById("admin-json").textContent || "false");
+</script>
+<script src="{% static 'rates/app.js' %}?v={% now 'U' %}"></script>
+{% endblock %}

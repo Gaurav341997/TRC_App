@@ -1,0 +1,313 @@
+﻿BankName,WithdrawalType,AmountSlab,Tenure,StartDay,EndDay,Rate,EffectiveDate,SourceURL,ExtractionMode,ScrapedAt
+HDFC,Callable,5crore to <5.25 crore,7 - 14 days,7,14,3.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 100 crore to < 200 crore,7 - 14 days,7,14,3.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 200 crore to < 300 crore,7 - 14 days,7,14,3.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 25 crore to < 100 crore,7 - 14 days,7,14,3.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 300 crore to < 500 crore,7 - 14 days,7,14,3.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 500 crore to < 1000 crore,7 - 14 days,7,14,3.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=1000 crore,7 - 14 days,7,14,3.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=24.75 crore to <25 crore,7 - 14 days,7,14,3.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=3 Crore to < 5 Crores,7 - 14 days,7,14,3.5,2026-03-07,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.25 crore to <5.50 crore,7 - 14 days,7,14,3.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.50 crore to <24.75 crore,7 - 14 days,7,14,3.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,5crore to <5.25 crore,15-29 days,15,29,3.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 100 crore to < 200 crore,15-29 days,15,29,3.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 200 crore to < 300 crore,15-29 days,15,29,3.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 25 crore to < 100 crore,15-29 days,15,29,3.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 300 crore to < 500 crore,15-29 days,15,29,3.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 500 crore to < 1000 crore,15-29 days,15,29,3.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=1000 crore,15-29 days,15,29,3.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=24.75 crore to <25 crore,15-29 days,15,29,3.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=3 Crore to < 5 Crores,15-29 days,15,29,3.5,2026-03-07,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.25 crore to <5.50 crore,15-29 days,15,29,3.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.50 crore to <24.75 crore,15-29 days,15,29,3.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,5crore to <5.25 crore,30-45 days,30,45,4.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 100 crore to < 200 crore,30-45 days,30,45,4.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 200 crore to < 300 crore,30-45 days,30,45,4.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 25 crore to < 100 crore,30-45 days,30,45,4.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 300 crore to < 500 crore,30-45 days,30,45,4.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 500 crore to < 1000 crore,30-45 days,30,45,4.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=1000 crore,30-45 days,30,45,4.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=24.75 crore to <25 crore,30-45 days,30,45,4.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=3 Crore to < 5 Crores,30-45 days,30,45,4.75,2026-03-07,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.25 crore to <5.50 crore,30-45 days,30,45,4.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.50 crore to <24.75 crore,30-45 days,30,45,4.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,5crore to <5.25 crore,46-60 days,46,60,4.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 100 crore to < 200 crore,46-60 days,46,60,4.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 200 crore to < 300 crore,46-60 days,46,60,4.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 25 crore to < 100 crore,46-60 days,46,60,4.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 300 crore to < 500 crore,46-60 days,46,60,4.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 500 crore to < 1000 crore,46-60 days,46,60,4.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=1000 crore,46-60 days,46,60,4.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=24.75 crore to <25 crore,46-60 days,46,60,4.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=3 Crore to < 5 Crores,46-60 days,46,60,5.0,2026-03-07,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.25 crore to <5.50 crore,46-60 days,46,60,4.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.50 crore to <24.75 crore,46-60 days,46,60,4.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,5crore to <5.25 crore,61-88 days,61,88,5.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 100 crore to < 200 crore,61-88 days,61,88,5.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 200 crore to < 300 crore,61-88 days,61,88,5.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 25 crore to < 100 crore,61-88 days,61,88,5.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 300 crore to < 500 crore,61-88 days,61,88,5.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 500 crore to < 1000 crore,61-88 days,61,88,5.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=1000 crore,61-88 days,61,88,5.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=24.75 crore to <25 crore,61-88 days,61,88,4.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.25 crore to <5.50 crore,61-88 days,61,88,4.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.50 crore to <24.75 crore,61-88 days,61,88,5.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=3 Crore to < 5 Crores,61-89 days,61,89,5.25,2026-03-07,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,5crore to <5.25 crore,89 days <= 120 Days,89,120,5.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 100 crore to < 200 crore,89 days <= 120 Days,89,120,5.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 200 crore to < 300 crore,89 days <= 120 Days,89,120,5.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 25 crore to < 100 crore,89 days <= 120 Days,89,120,5.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 300 crore to < 500 crore,89 days <= 120 Days,89,120,5.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 500 crore to < 1000 crore,89 days <= 120 Days,89,120,5.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=1000 crore,89 days <= 120 Days,89,120,5.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=24.75 crore to <25 crore,89 days <= 120 Days,89,120,4.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.25 crore to <5.50 crore,89 days <= 120 Days,89,120,4.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.50 crore to <24.75 crore,89 days <= 120 Days,89,120,5.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=3 Crore to < 5 Crores,90 days <= 6 months,90,180,5.5,2026-03-07,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,5crore to <5.25 crore,121 days <= 150 days,121,150,5.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 100 crore to < 200 crore,121 days <= 150 days,121,150,5.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 200 crore to < 300 crore,121 days <= 150 days,121,150,5.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 25 crore to < 100 crore,121 days <= 150 days,121,150,5.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 300 crore to < 500 crore,121 days <= 150 days,121,150,5.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 500 crore to < 1000 crore,121 days <= 150 days,121,150,5.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=1000 crore,121 days <= 150 days,121,150,5.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=24.75 crore to <25 crore,121 days <= 150 days,121,150,4.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.25 crore to <5.50 crore,121 days <= 150 days,121,150,4.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.50 crore to <24.75 crore,121 days <= 150 days,121,150,5.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,5crore to <5.25 crore,151 days <=6 Months,151,180,5.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 100 crore to < 200 crore,151 days <=6 Months,151,180,5.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 200 crore to < 300 crore,151 days <=6 Months,151,180,5.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 25 crore to < 100 crore,151 days <=6 Months,151,180,5.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 300 crore to < 500 crore,151 days <=6 Months,151,180,5.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 500 crore to < 1000 crore,151 days <=6 Months,151,180,5.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=1000 crore,151 days <=6 Months,151,180,5.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=24.75 crore to <25 crore,151 days <=6 Months,151,180,4.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.25 crore to <5.50 crore,151 days <=6 Months,151,180,4.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.50 crore to <24.75 crore,151 days <=6 Months,151,180,5.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,5crore to <5.25 crore,6 months 1 day <=9months,181,270,5.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 100 crore to < 200 crore,6 months 1 day <=9months,181,270,6.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 200 crore to < 300 crore,6 months 1 day <=9months,181,270,6.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 25 crore to < 100 crore,6 months 1 day <=9months,181,270,6.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 300 crore to < 500 crore,6 months 1 day <=9months,181,270,6.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 500 crore to < 1000 crore,6 months 1 day <=9months,181,270,6.7,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=1000 crore,6 months 1 day <=9months,181,270,6.7,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=24.75 crore to <25 crore,6 months 1 day <=9months,181,270,4.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=3 Crore to < 5 Crores,6 months 1 day <= 9 months,181,270,5.75,2026-03-07,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.25 crore to <5.50 crore,6 months 1 day <=9months,181,270,4.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.50 crore to <24.75 crore,6 months 1 day <=9months,181,270,5.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,5crore to <5.25 crore,9 months 1 day to < 1 Year,271,364,6.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 100 crore to < 200 crore,9 months 1 day to < 1 Year,271,364,6.35,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 200 crore to < 300 crore,9 months 1 day to < 1 Year,271,364,6.35,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 25 crore to < 100 crore,9 months 1 day to < 1 Year,271,364,6.35,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 300 crore to < 500 crore,9 months 1 day to < 1 Year,271,364,6.35,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 500 crore to < 1000 crore,9 months 1 day to < 1 Year,271,364,6.35,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=1000 crore,9 months 1 day to < 1 Year,271,364,6.35,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=24.75 crore to <25 crore,9 months 1 day to < 1 Year,271,364,4.25,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=3 Crore to < 5 Crores,9 months 1 day to < 1 Year,271,364,6.0,2026-03-07,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.25 crore to <5.50 crore,9 months 1 day to < 1 Year,271,364,4.25,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.50 crore to <24.75 crore,9 months 1 day to < 1 Year,271,364,6.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,5crore to <5.25 crore,1 Year to < 15 months,365,454,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 100 crore to < 200 crore,1 Year to < 15 months,365,454,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 200 crore to < 300 crore,1 Year to < 15 months,365,454,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 25 crore to < 100 crore,1 Year to < 15 months,365,454,6.66,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 300 crore to < 500 crore,1 Year to < 15 months,365,454,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 500 crore to < 1000 crore,1 Year to < 15 months,365,454,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=1000 crore,1 Year to < 15 months,365,454,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=24.75 crore to <25 crore,1 Year to < 15 months,365,454,4.25,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=3 Crore to < 5 Crores,1 Year to < 15 months,365,454,6.25,2026-03-07,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.25 crore to <5.50 crore,1 Year to < 15 months,365,454,4.25,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.50 crore to <24.75 crore,1 Year to < 15 months,365,454,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,5crore to <5.25 crore,15 months to < 18 months,455,544,6.25,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 100 crore to < 200 crore,15 months to < 18 months,455,544,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 200 crore to < 300 crore,15 months to < 18 months,455,544,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 25 crore to < 100 crore,15 months to < 18 months,455,544,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 300 crore to < 500 crore,15 months to < 18 months,455,544,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 500 crore to < 1000 crore,15 months to < 18 months,455,544,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=1000 crore,15 months to < 18 months,455,544,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=24.75 crore to <25 crore,15 months to < 18 months,455,544,4.25,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=3 Crore to < 5 Crores,15 months to < 18 months,455,544,6.25,2026-03-07,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.25 crore to <5.50 crore,15 months to < 18 months,455,544,4.25,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.50 crore to <24.75 crore,15 months to < 18 months,455,544,6.25,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,5crore to <5.25 crore,18 months to < 21 months,545,634,6.4,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 100 crore to < 200 crore,18 months to < 21 months,545,634,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 200 crore to < 300 crore,18 months to < 21 months,545,634,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 25 crore to < 100 crore,18 months to < 21 months,545,634,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 300 crore to < 500 crore,18 months to < 21 months,545,634,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 500 crore to < 1000 crore,18 months to < 21 months,545,634,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=1000 crore,18 months to < 21 months,545,634,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=24.75 crore to <25 crore,18 months to < 21 months,545,634,4.25,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=3 Crore to < 5 Crores,18 months to < 21 months,545,634,6.4,2026-03-07,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.25 crore to <5.50 crore,18 months to < 21 months,545,634,4.25,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.50 crore to <24.75 crore,18 months to < 21 months,545,634,6.4,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,5crore to <5.25 crore,21 months to 2 years,635,730,6.4,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 100 crore to < 200 crore,21 months to 2 years,635,730,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 200 crore to < 300 crore,21 months to 2 years,635,730,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 25 crore to < 100 crore,21 months to 2 years,635,730,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 300 crore to < 500 crore,21 months to 2 years,635,730,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 500 crore to < 1000 crore,21 months to 2 years,635,730,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=1000 crore,21 months to 2 years,635,730,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=24.75 crore to <25 crore,21 months to 2 years,635,730,4.25,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=3 Crore to < 5 Crores,21 months to 2 years,635,730,6.4,2026-03-07,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.25 crore to <5.50 crore,21 months to 2 years,635,730,4.25,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.50 crore to <24.75 crore,21 months to 2 years,635,730,6.4,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,5crore to <5.25 crore,2 year 1 day to 3 years,731,1095,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 100 crore to < 200 crore,2 year 1 day to 3 years,731,1095,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 200 crore to < 300 crore,2 year 1 day to 3 years,731,1095,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 25 crore to < 100 crore,2 year 1 day to 3 years,731,1095,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 300 crore to < 500 crore,2 year 1 day to 3 years,731,1095,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 500 crore to < 1000 crore,2 year 1 day to 3 years,731,1095,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=1000 crore,2 year 1 day to 3 years,731,1095,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=24.75 crore to <25 crore,2 year 1 day to 3 years,731,1095,4.25,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=3 Crore to < 5 Crores,2 year 1 day to 3 years,731,1095,6.25,2026-03-07,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.25 crore to <5.50 crore,2 year 1 day to 3 years,731,1095,4.25,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.50 crore to <24.75 crore,2 year 1 day to 3 years,731,1095,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,5crore to <5.25 crore,3 year 1 day to 5 years,1096,1825,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 100 crore to < 200 crore,3 year 1 day to 5 years,1096,1825,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 200 crore to < 300 crore,3 year 1 day to 5 years,1096,1825,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 25 crore to < 100 crore,3 year 1 day to 5 years,1096,1825,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 300 crore to < 500 crore,3 year 1 day to 5 years,1096,1825,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 500 crore to < 1000 crore,3 year 1 day to 5 years,1096,1825,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=1000 crore,3 year 1 day to 5 years,1096,1825,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=24.75 crore to <25 crore,3 year 1 day to 5 years,1096,1825,4.25,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=3 Crore to < 5 Crores,3 year 1 day to 5 years,1096,1825,6.35,2026-03-07,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.25 crore to <5.50 crore,3 year 1 day to 5 years,1096,1825,4.25,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.50 crore to <24.75 crore,3 year 1 day to 5 years,1096,1825,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,5crore to <5.25 crore,5 year 1 day to 10 years,1826,3650,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 100 crore to < 200 crore,5 year 1 day to 10 years,1826,3650,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 200 crore to < 300 crore,5 year 1 day to 10 years,1826,3650,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 25 crore to < 100 crore,5 year 1 day to 10 years,1826,3650,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 300 crore to < 500 crore,5 year 1 day to 10 years,1826,3650,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>= 500 crore to < 1000 crore,5 year 1 day to 10 years,1826,3650,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=1000 crore,5 year 1 day to 10 years,1826,3650,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=24.75 crore to <25 crore,5 year 1 day to 10 years,1826,3650,4.25,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=3 Crore to < 5 Crores,5 year 1 day to 10 years,1826,3650,6.15,2026-03-07,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.25 crore to <5.50 crore,5 year 1 day to 10 years,1826,3650,4.25,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Callable,>=5.50 crore to <24.75 crore,5 year 1 day to 10 years,1826,3650,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,5crore to <5.25 crore,89 days <= 120 Days,89,120,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 100 crore to < 200 crore,89 days <= 120 Days,89,120,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 200 crore to < 300 crore,89 days <= 120 Days,89,120,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 25 crore to < 100 crore,89 days <= 120 Days,89,120,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 300 crore to < 500 crore,89 days <= 120 Days,89,120,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 500 crore to < 1000 crore,89 days <= 120 Days,89,120,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=1000 crore,89 days <= 120 Days,89,120,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=24.75 crore to <25 crore,89 days <= 120 Days,89,120,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=5.25 crore to <5.50 crore,89 days <= 120 Days,89,120,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=5.50 crore to <24.75 crore,89 days <= 120 Days,89,120,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,5crore to <5.25 crore,121 days <= 150 days,121,150,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 100 crore to < 200 crore,121 days <= 150 days,121,150,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 200 crore to < 300 crore,121 days <= 150 days,121,150,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 25 crore to < 100 crore,121 days <= 150 days,121,150,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 300 crore to < 500 crore,121 days <= 150 days,121,150,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 500 crore to < 1000 crore,121 days <= 150 days,121,150,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=1000 crore,121 days <= 150 days,121,150,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=24.75 crore to <25 crore,121 days <= 150 days,121,150,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=5.25 crore to <5.50 crore,121 days <= 150 days,121,150,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=5.50 crore to <24.75 crore,121 days <= 150 days,121,150,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,5crore to <5.25 crore,151 days <=6 Months,151,180,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 100 crore to < 200 crore,151 days <=6 Months,151,180,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 200 crore to < 300 crore,151 days <=6 Months,151,180,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 25 crore to < 100 crore,151 days <=6 Months,151,180,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 300 crore to < 500 crore,151 days <=6 Months,151,180,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 500 crore to < 1000 crore,151 days <=6 Months,151,180,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=1000 crore,151 days <=6 Months,151,180,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=24.75 crore to <25 crore,151 days <=6 Months,151,180,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=5.25 crore to <5.50 crore,151 days <=6 Months,151,180,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=5.50 crore to <24.75 crore,151 days <=6 Months,151,180,5.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,5crore to <5.25 crore,6 months 1 day <=9months,181,270,6.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 100 crore to < 200 crore,6 months 1 day <=9months,181,270,6.1,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 200 crore to < 300 crore,6 months 1 day <=9months,181,270,6.1,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 25 crore to < 100 crore,6 months 1 day <=9months,181,270,6.1,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 300 crore to < 500 crore,6 months 1 day <=9months,181,270,6.1,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 500 crore to < 1000 crore,6 months 1 day <=9months,181,270,6.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=1000 crore,6 months 1 day <=9months,181,270,6.75,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=24.75 crore to <25 crore,6 months 1 day <=9months,181,270,6.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=5.25 crore to <5.50 crore,6 months 1 day <=9months,181,270,6.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=5.50 crore to <24.75 crore,6 months 1 day <=9months,181,270,6.0,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,5crore to <5.25 crore,9 months 1 day to < 1 Year,271,364,6.1,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 100 crore to < 200 crore,9 months 1 day to < 1 Year,271,364,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 200 crore to < 300 crore,9 months 1 day to < 1 Year,271,364,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 25 crore to < 100 crore,9 months 1 day to < 1 Year,271,364,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 300 crore to < 500 crore,9 months 1 day to < 1 Year,271,364,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 500 crore to < 1000 crore,9 months 1 day to < 1 Year,271,364,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=1000 crore,9 months 1 day to < 1 Year,271,364,6.5,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=24.75 crore to <25 crore,9 months 1 day to < 1 Year,271,364,6.1,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=5.25 crore to <5.50 crore,9 months 1 day to < 1 Year,271,364,6.1,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=5.50 crore to <24.75 crore,9 months 1 day to < 1 Year,271,364,6.1,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,2 crore to < 5 crore,1 Year to < 15 months,365,454,6.3,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,5crore to <5.25 crore,1 Year to < 15 months,365,454,6.65,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 100 crore to < 200 crore,1 Year to < 15 months,365,454,6.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 200 crore to < 300 crore,1 Year to < 15 months,365,454,6.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 25 crore to < 100 crore,1 Year to < 15 months,365,454,6.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 300 crore to < 500 crore,1 Year to < 15 months,365,454,6.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 500 crore to < 1000 crore,1 Year to < 15 months,365,454,6.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=1000 crore,1 Year to < 15 months,365,454,6.85,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=24.75 crore to <25 crore,1 Year to < 15 months,365,454,6.65,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=5.25 crore to <5.50 crore,1 Year to < 15 months,365,454,6.65,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=5.50 crore to <24.75 crore,1 Year to < 15 months,365,454,6.65,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,2 crore to < 5 crore,15 months to < 18 months,455,544,6.3,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,5crore to <5.25 crore,15 months to < 18 months,455,544,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 100 crore to < 200 crore,15 months to < 18 months,455,544,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 200 crore to < 300 crore,15 months to < 18 months,455,544,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 25 crore to < 100 crore,15 months to < 18 months,455,544,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 300 crore to < 500 crore,15 months to < 18 months,455,544,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 500 crore to < 1000 crore,15 months to < 18 months,455,544,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=1000 crore,15 months to < 18 months,455,544,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=24.75 crore to <25 crore,15 months to < 18 months,455,544,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=5.25 crore to <5.50 crore,15 months to < 18 months,455,544,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=5.50 crore to <24.75 crore,15 months to < 18 months,455,544,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,2 crore to < 5 crore,18 months to < 21 months,545,634,6.45,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,5crore to <5.25 crore,18 months to < 21 months,545,634,6.45,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 100 crore to < 200 crore,18 months to < 21 months,545,634,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 200 crore to < 300 crore,18 months to < 21 months,545,634,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 25 crore to < 100 crore,18 months to < 21 months,545,634,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 300 crore to < 500 crore,18 months to < 21 months,545,634,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 500 crore to < 1000 crore,18 months to < 21 months,545,634,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=1000 crore,18 months to < 21 months,545,634,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=24.75 crore to <25 crore,18 months to < 21 months,545,634,6.45,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=5.25 crore to <5.50 crore,18 months to < 21 months,545,634,6.45,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=5.50 crore to <24.75 crore,18 months to < 21 months,545,634,6.45,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,2 crore to < 5 crore,21 months to 2 years,635,730,6.45,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,5crore to <5.25 crore,21 months to 2 years,635,730,6.45,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 100 crore to < 200 crore,21 months to 2 years,635,730,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 200 crore to < 300 crore,21 months to 2 years,635,730,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 25 crore to < 100 crore,21 months to 2 years,635,730,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 300 crore to < 500 crore,21 months to 2 years,635,730,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 500 crore to < 1000 crore,21 months to 2 years,635,730,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=1000 crore,21 months to 2 years,635,730,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=24.75 crore to <25 crore,21 months to 2 years,635,730,6.45,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=5.25 crore to <5.50 crore,21 months to 2 years,635,730,6.45,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=5.50 crore to <24.75 crore,21 months to 2 years,635,730,6.45,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,2 crore to < 5 crore,2 year 1 day to 3 years,731,1095,6.35,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,5crore to <5.25 crore,2 year 1 day to 3 years,731,1095,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 100 crore to < 200 crore,2 year 1 day to 3 years,731,1095,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 200 crore to < 300 crore,2 year 1 day to 3 years,731,1095,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 25 crore to < 100 crore,2 year 1 day to 3 years,731,1095,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 300 crore to < 500 crore,2 year 1 day to 3 years,731,1095,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 500 crore to < 1000 crore,2 year 1 day to 3 years,731,1095,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=1000 crore,2 year 1 day to 3 years,731,1095,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=24.75 crore to <25 crore,2 year 1 day to 3 years,731,1095,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=5.25 crore to <5.50 crore,2 year 1 day to 3 years,731,1095,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=5.50 crore to <24.75 crore,2 year 1 day to 3 years,731,1095,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,2 crore to < 5 crore,3 year 1 day to 5 years,1096,1825,6.45,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,5crore to <5.25 crore,3 year 1 day to 5 years,1096,1825,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 100 crore to < 200 crore,3 year 1 day to 5 years,1096,1825,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 200 crore to < 300 crore,3 year 1 day to 5 years,1096,1825,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 25 crore to < 100 crore,3 year 1 day to 5 years,1096,1825,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 300 crore to < 500 crore,3 year 1 day to 5 years,1096,1825,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 500 crore to < 1000 crore,3 year 1 day to 5 years,1096,1825,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=1000 crore,3 year 1 day to 5 years,1096,1825,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=24.75 crore to <25 crore,3 year 1 day to 5 years,1096,1825,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=5.25 crore to <5.50 crore,3 year 1 day to 5 years,1096,1825,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=5.50 crore to <24.75 crore,3 year 1 day to 5 years,1096,1825,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,2 crore to < 5 crore,5 year 1 day to 10 years,1826,3650,6.25,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,5crore to <5.25 crore,5 year 1 day to 10 years,1826,3650,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 100 crore to < 200 crore,5 year 1 day to 10 years,1826,3650,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 200 crore to < 300 crore,5 year 1 day to 10 years,1826,3650,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 25 crore to < 100 crore,5 year 1 day to 10 years,1826,3650,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 300 crore to < 500 crore,5 year 1 day to 10 years,1826,3650,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>= 500 crore to < 1000 crore,5 year 1 day to 10 years,1826,3650,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=1000 crore,5 year 1 day to 10 years,1826,3650,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=24.75 crore to <25 crore,5 year 1 day to 10 years,1826,3650,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=5.25 crore to <5.50 crore,5 year 1 day to 10 years,1826,3650,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28
+HDFC,Non-Callable,>=5.50 crore to <24.75 crore,5 year 1 day to 10 years,1826,3650,6.6,2026-10-15,https://www.hdfc.bank.in/interest-rates,official_html,2026-10-15T15:05:28

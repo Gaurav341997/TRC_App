@@ -1,0 +1,783 @@
+﻿BankName,WithdrawalType,AmountSlab,Tenure,StartDay,EndDay,Rate,EffectiveDate,SourceURL,ExtractionMode,ScrapedAt
+RBL,Callable,3 Cr to 3.5 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.6 Cr to 10.75 Cr,7 days to 10 days,7,10,3.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.75 Cr to 15 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 105.7 Cr to 106.5 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 106.5 Cr to 150 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 15 Cr to 25 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 150 Cr to 200 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 200 Cr to 225 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 225 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 25 Cr to 35 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 3.5 Cr to 4 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 35 Cr to 50 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 4 Cr to 5.6 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.6 Cr to 5.75 Cr,7 days to 10 days,7,10,3.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.75 Cr to 10.6 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 50 Cr to 75 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 75 Cr to 105.7 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,3 Cr to 3.5 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.6 Cr to 10.75 Cr,11 days to 14 days,11,14,3.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.75 Cr to 15 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 105.7 Cr to 106.5 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 106.5 Cr to 150 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 15 Cr to 25 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 150 Cr to 200 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 200 Cr to 225 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 225 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 25 Cr to 35 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 3.5 Cr to 4 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 35 Cr to 50 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 4 Cr to 5.6 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.6 Cr to 5.75 Cr,11 days to 14 days,11,14,3.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.75 Cr to 10.6 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 50 Cr to 75 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 75 Cr to 105.7 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,3 Cr to 3.5 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.6 Cr to 10.75 Cr,15 days to 22days,15,22,3.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.75 Cr to 15 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 105.7 Cr to 106.5 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 106.5 Cr to 150 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 15 Cr to 25 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 150 Cr to 200 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 200 Cr to 225 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 225 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 25 Cr to 35 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 3.5 Cr to 4 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 35 Cr to 50 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 4 Cr to 5.6 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.6 Cr to 5.75 Cr,15 days to 22days,15,22,3.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.75 Cr to 10.6 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 50 Cr to 75 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 75 Cr to 105.7 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,3 Cr to 3.5 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.6 Cr to 10.75 Cr,23 days to 30 days,23,30,3.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.75 Cr to 15 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 105.7 Cr to 106.5 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 106.5 Cr to 150 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 15 Cr to 25 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 150 Cr to 200 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 200 Cr to 225 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 225 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 25 Cr to 35 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 3.5 Cr to 4 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 35 Cr to 50 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 4 Cr to 5.6 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.6 Cr to 5.75 Cr,23 days to 30 days,23,30,3.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.75 Cr to 10.6 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 50 Cr to 75 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 75 Cr to 105.7 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,3 Cr to 3.5 Cr,31 days to 45 days,31,45,5.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.6 Cr to 10.75 Cr,31 days to 45 days,31,45,4.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.75 Cr to 15 Cr,31 days to 45 days,31,45,5.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 105.7 Cr to 106.5 Cr,31 days to 45 days,31,45,5.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 106.5 Cr to 150 Cr,31 days to 45 days,31,45,5.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 15 Cr to 25 Cr,31 days to 45 days,31,45,5.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 150 Cr to 200 Cr,31 days to 45 days,31,45,5.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 200 Cr to 225 Cr,31 days to 45 days,31,45,5.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 225 Cr,31 days to 45 days,31,45,5.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 25 Cr to 35 Cr,31 days to 45 days,31,45,5.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 3.5 Cr to 4 Cr,31 days to 45 days,31,45,5.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 35 Cr to 50 Cr,31 days to 45 days,31,45,5.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 4 Cr to 5.6 Cr,31 days to 45 days,31,45,5.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.6 Cr to 5.75 Cr,31 days to 45 days,31,45,4.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.75 Cr to 10.6 Cr,31 days to 45 days,31,45,5.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 50 Cr to 75 Cr,31 days to 45 days,31,45,5.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 75 Cr to 105.7 Cr,31 days to 45 days,31,45,5.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,3 Cr to 3.5 Cr,46 days to 60 days,46,60,5.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.6 Cr to 10.75 Cr,46 days to 60 days,46,60,4.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.75 Cr to 15 Cr,46 days to 60 days,46,60,5.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 105.7 Cr to 106.5 Cr,46 days to 60 days,46,60,5.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 106.5 Cr to 150 Cr,46 days to 60 days,46,60,5.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 15 Cr to 25 Cr,46 days to 60 days,46,60,5.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 150 Cr to 200 Cr,46 days to 60 days,46,60,5.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 200 Cr to 225 Cr,46 days to 60 days,46,60,5.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 225 Cr,46 days to 60 days,46,60,5.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 25 Cr to 35 Cr,46 days to 60 days,46,60,5.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 3.5 Cr to 4 Cr,46 days to 60 days,46,60,5.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 35 Cr to 50 Cr,46 days to 60 days,46,60,5.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 4 Cr to 5.6 Cr,46 days to 60 days,46,60,5.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.6 Cr to 5.75 Cr,46 days to 60 days,46,60,4.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.75 Cr to 10.6 Cr,46 days to 60 days,46,60,5.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 50 Cr to 75 Cr,46 days to 60 days,46,60,5.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 75 Cr to 105.7 Cr,46 days to 60 days,46,60,5.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,3 Cr to 3.5 Cr,61 days to 75 days,61,75,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.6 Cr to 10.75 Cr,61 days to 75 days,61,75,4.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.75 Cr to 15 Cr,61 days to 75 days,61,75,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 105.7 Cr to 106.5 Cr,61 days to 75 days,61,75,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 106.5 Cr to 150 Cr,61 days to 75 days,61,75,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 15 Cr to 25 Cr,61 days to 75 days,61,75,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 150 Cr to 200 Cr,61 days to 75 days,61,75,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 200 Cr to 225 Cr,61 days to 75 days,61,75,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 225 Cr,61 days to 75 days,61,75,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 25 Cr to 35 Cr,61 days to 75 days,61,75,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 3.5 Cr to 4 Cr,61 days to 75 days,61,75,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 35 Cr to 50 Cr,61 days to 75 days,61,75,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 4 Cr to 5.6 Cr,61 days to 75 days,61,75,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.6 Cr to 5.75 Cr,61 days to 75 days,61,75,4.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.75 Cr to 10.6 Cr,61 days to 75 days,61,75,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 50 Cr to 75 Cr,61 days to 75 days,61,75,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 75 Cr to 105.7 Cr,61 days to 75 days,61,75,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,3 Cr to 3.5 Cr,76 days to 90 days,76,90,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.6 Cr to 10.75 Cr,76 days to 90 days,76,90,4.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.75 Cr to 15 Cr,76 days to 90 days,76,90,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 105.7 Cr to 106.5 Cr,76 days to 90 days,76,90,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 106.5 Cr to 150 Cr,76 days to 90 days,76,90,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 15 Cr to 25 Cr,76 days to 90 days,76,90,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 150 Cr to 200 Cr,76 days to 90 days,76,90,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 200 Cr to 225 Cr,76 days to 90 days,76,90,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 225 Cr,76 days to 90 days,76,90,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 25 Cr to 35 Cr,76 days to 90 days,76,90,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 3.5 Cr to 4 Cr,76 days to 90 days,76,90,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 35 Cr to 50 Cr,76 days to 90 days,76,90,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 4 Cr to 5.6 Cr,76 days to 90 days,76,90,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.6 Cr to 5.75 Cr,76 days to 90 days,76,90,4.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.75 Cr to 10.6 Cr,76 days to 90 days,76,90,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 50 Cr to 75 Cr,76 days to 90 days,76,90,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 75 Cr to 105.7 Cr,76 days to 90 days,76,90,5.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,3 Cr to 3.5 Cr,91 days to 120 days,91,120,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.6 Cr to 10.75 Cr,91 days to 120 days,91,120,4.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.75 Cr to 15 Cr,91 days to 120 days,91,120,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 105.7 Cr to 106.5 Cr,91 days to 120 days,91,120,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 106.5 Cr to 150 Cr,91 days to 120 days,91,120,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 15 Cr to 25 Cr,91 days to 120 days,91,120,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 150 Cr to 200 Cr,91 days to 120 days,91,120,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 200 Cr to 225 Cr,91 days to 120 days,91,120,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 225 Cr,91 days to 120 days,91,120,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 25 Cr to 35 Cr,91 days to 120 days,91,120,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 3.5 Cr to 4 Cr,91 days to 120 days,91,120,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 35 Cr to 50 Cr,91 days to 120 days,91,120,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 4 Cr to 5.6 Cr,91 days to 120 days,91,120,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.6 Cr to 5.75 Cr,91 days to 120 days,91,120,4.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.75 Cr to 10.6 Cr,91 days to 120 days,91,120,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 50 Cr to 75 Cr,91 days to 120 days,91,120,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 75 Cr to 105.7 Cr,91 days to 120 days,91,120,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,3 Cr to 3.5 Cr,121 days to 150 days,121,150,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.6 Cr to 10.75 Cr,121 days to 150 days,121,150,4.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.75 Cr to 15 Cr,121 days to 150 days,121,150,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 105.7 Cr to 106.5 Cr,121 days to 150 days,121,150,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 106.5 Cr to 150 Cr,121 days to 150 days,121,150,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 15 Cr to 25 Cr,121 days to 150 days,121,150,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 150 Cr to 200 Cr,121 days to 150 days,121,150,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 200 Cr to 225 Cr,121 days to 150 days,121,150,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 225 Cr,121 days to 150 days,121,150,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 25 Cr to 35 Cr,121 days to 150 days,121,150,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 3.5 Cr to 4 Cr,121 days to 150 days,121,150,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 35 Cr to 50 Cr,121 days to 150 days,121,150,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 4 Cr to 5.6 Cr,121 days to 150 days,121,150,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.6 Cr to 5.75 Cr,121 days to 150 days,121,150,4.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.75 Cr to 10.6 Cr,121 days to 150 days,121,150,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 50 Cr to 75 Cr,121 days to 150 days,121,150,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 75 Cr to 105.7 Cr,121 days to 150 days,121,150,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,3 Cr to 3.5 Cr,151 days to 180 days,151,180,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.6 Cr to 10.75 Cr,151 days to 180 days,151,180,4.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.75 Cr to 15 Cr,151 days to 180 days,151,180,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 105.7 Cr to 106.5 Cr,151 days to 180 days,151,180,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 106.5 Cr to 150 Cr,151 days to 180 days,151,180,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 15 Cr to 25 Cr,151 days to 180 days,151,180,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 150 Cr to 200 Cr,151 days to 180 days,151,180,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 200 Cr to 225 Cr,151 days to 180 days,151,180,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 225 Cr,151 days to 180 days,151,180,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 25 Cr to 35 Cr,151 days to 180 days,151,180,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 3.5 Cr to 4 Cr,151 days to 180 days,151,180,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 35 Cr to 50 Cr,151 days to 180 days,151,180,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 4 Cr to 5.6 Cr,151 days to 180 days,151,180,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.6 Cr to 5.75 Cr,151 days to 180 days,151,180,4.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.75 Cr to 10.6 Cr,151 days to 180 days,151,180,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 50 Cr to 75 Cr,151 days to 180 days,151,180,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 75 Cr to 105.7 Cr,151 days to 180 days,151,180,6.15,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,3 Cr to 3.5 Cr,181 days to 210 days,181,210,6.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.6 Cr to 10.75 Cr,181 days to 210 days,181,210,4.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.75 Cr to 15 Cr,181 days to 210 days,181,210,6.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 105.7 Cr to 106.5 Cr,181 days to 210 days,181,210,6.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 106.5 Cr to 150 Cr,181 days to 210 days,181,210,6.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 15 Cr to 25 Cr,181 days to 210 days,181,210,6.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 150 Cr to 200 Cr,181 days to 210 days,181,210,6.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 200 Cr to 225 Cr,181 days to 210 days,181,210,6.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 225 Cr,181 days to 210 days,181,210,6.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 25 Cr to 35 Cr,181 days to 210 days,181,210,6.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 3.5 Cr to 4 Cr,181 days to 210 days,181,210,6.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 35 Cr to 50 Cr,181 days to 210 days,181,210,6.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 4 Cr to 5.6 Cr,181 days to 210 days,181,210,6.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.6 Cr to 5.75 Cr,181 days to 210 days,181,210,4.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.75 Cr to 10.6 Cr,181 days to 210 days,181,210,6.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 50 Cr to 75 Cr,181 days to 210 days,181,210,6.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 75 Cr to 105.7 Cr,181 days to 210 days,181,210,6.4,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,3 Cr to 3.5 Cr,211 days to 240 days,211,240,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.6 Cr to 10.75 Cr,211 days to 240 days,211,240,4.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.75 Cr to 15 Cr,211 days to 240 days,211,240,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 105.7 Cr to 106.5 Cr,211 days to 240 days,211,240,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 106.5 Cr to 150 Cr,211 days to 240 days,211,240,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 15 Cr to 25 Cr,211 days to 240 days,211,240,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 150 Cr to 200 Cr,211 days to 240 days,211,240,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 200 Cr to 225 Cr,211 days to 240 days,211,240,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 225 Cr,211 days to 240 days,211,240,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 25 Cr to 35 Cr,211 days to 240 days,211,240,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 3.5 Cr to 4 Cr,211 days to 240 days,211,240,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 35 Cr to 50 Cr,211 days to 240 days,211,240,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 4 Cr to 5.6 Cr,211 days to 240 days,211,240,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.6 Cr to 5.75 Cr,211 days to 240 days,211,240,4.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.75 Cr to 10.6 Cr,211 days to 240 days,211,240,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 50 Cr to 75 Cr,211 days to 240 days,211,240,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 75 Cr to 105.7 Cr,211 days to 240 days,211,240,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,3 Cr to 3.5 Cr,241 days to 270 days,241,270,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.6 Cr to 10.75 Cr,241 days to 270 days,241,270,4.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.75 Cr to 15 Cr,241 days to 270 days,241,270,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 105.7 Cr to 106.5 Cr,241 days to 270 days,241,270,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 106.5 Cr to 150 Cr,241 days to 270 days,241,270,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 15 Cr to 25 Cr,241 days to 270 days,241,270,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 150 Cr to 200 Cr,241 days to 270 days,241,270,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 200 Cr to 225 Cr,241 days to 270 days,241,270,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 225 Cr,241 days to 270 days,241,270,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 25 Cr to 35 Cr,241 days to 270 days,241,270,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 3.5 Cr to 4 Cr,241 days to 270 days,241,270,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 35 Cr to 50 Cr,241 days to 270 days,241,270,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 4 Cr to 5.6 Cr,241 days to 270 days,241,270,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.6 Cr to 5.75 Cr,241 days to 270 days,241,270,4.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.75 Cr to 10.6 Cr,241 days to 270 days,241,270,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 50 Cr to 75 Cr,241 days to 270 days,241,270,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 75 Cr to 105.7 Cr,241 days to 270 days,241,270,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,3 Cr to 3.5 Cr,271 days to 364 days,271,364,6.75,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.6 Cr to 10.75 Cr,271 days to 364 days,271,364,4.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.75 Cr to 15 Cr,271 days to 364 days,271,364,6.75,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 105.7 Cr to 106.5 Cr,271 days to 364 days,271,364,6.75,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 106.5 Cr to 150 Cr,271 days to 364 days,271,364,6.75,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 15 Cr to 25 Cr,271 days to 364 days,271,364,6.75,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 150 Cr to 200 Cr,271 days to 364 days,271,364,6.75,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 200 Cr to 225 Cr,271 days to 364 days,271,364,6.75,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 225 Cr,271 days to 364 days,271,364,6.75,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 25 Cr to 35 Cr,271 days to 364 days,271,364,6.75,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 3.5 Cr to 4 Cr,271 days to 364 days,271,364,6.75,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 35 Cr to 50 Cr,271 days to 364 days,271,364,6.75,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 4 Cr to 5.6 Cr,271 days to 364 days,271,364,6.75,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.6 Cr to 5.75 Cr,271 days to 364 days,271,364,4.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.75 Cr to 10.6 Cr,271 days to 364 days,271,364,6.75,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 50 Cr to 75 Cr,271 days to 364 days,271,364,6.75,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 75 Cr to 105.7 Cr,271 days to 364 days,271,364,6.75,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,3 Cr to 3.5 Cr,365 - 452 days,365,452,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.6 Cr to 10.75 Cr,365 - 452 days,365,452,5.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.75 Cr to 15 Cr,365 - 452 days,365,452,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 105.7 Cr to 106.5 Cr,365 - 452 days,365,452,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 106.5 Cr to 150 Cr,365 - 452 days,365,452,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 15 Cr to 25 Cr,365 - 452 days,365,452,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 150 Cr to 200 Cr,365 - 452 days,365,452,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 200 Cr to 225 Cr,365 - 452 days,365,452,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 225 Cr,365 - 452 days,365,452,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 25 Cr to 35 Cr,365 - 452 days,365,452,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 3.5 Cr to 4 Cr,365 - 452 days,365,452,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 35 Cr to 50 Cr,365 - 452 days,365,452,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 4 Cr to 5.6 Cr,365 - 452 days,365,452,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.6 Cr to 5.75 Cr,365 - 452 days,365,452,5.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.75 Cr to 10.6 Cr,365 - 452 days,365,452,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 50 Cr to 75 Cr,365 - 452 days,365,452,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 75 Cr to 105.7 Cr,365 - 452 days,365,452,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,3 Cr to 3.5 Cr,453 - 499 days,453,499,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.6 Cr to 10.75 Cr,453 - 499 days,453,499,4.75,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.75 Cr to 15 Cr,453 - 499 days,453,499,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 105.7 Cr to 106.5 Cr,453 - 499 days,453,499,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 106.5 Cr to 150 Cr,453 - 499 days,453,499,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 15 Cr to 25 Cr,453 - 499 days,453,499,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 150 Cr to 200 Cr,453 - 499 days,453,499,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 200 Cr to 225 Cr,453 - 499 days,453,499,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 225 Cr,453 - 499 days,453,499,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 25 Cr to 35 Cr,453 - 499 days,453,499,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 3.5 Cr to 4 Cr,453 - 499 days,453,499,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 35 Cr to 50 Cr,453 - 499 days,453,499,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 4 Cr to 5.6 Cr,453 - 499 days,453,499,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.6 Cr to 5.75 Cr,453 - 499 days,453,499,4.75,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.75 Cr to 10.6 Cr,453 - 499 days,453,499,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 50 Cr to 75 Cr,453 - 499 days,453,499,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 75 Cr to 105.7 Cr,453 - 499 days,453,499,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,3 Cr to 3.5 Cr,500 days,500,500,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.6 Cr to 10.75 Cr,500 days,500,500,4.75,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.75 Cr to 15 Cr,500 days,500,500,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 105.7 Cr to 106.5 Cr,500 days,500,500,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 106.5 Cr to 150 Cr,500 days,500,500,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 15 Cr to 25 Cr,500 days,500,500,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 150 Cr to 200 Cr,500 days,500,500,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 200 Cr to 225 Cr,500 days,500,500,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 225 Cr,500 days,500,500,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 25 Cr to 35 Cr,500 days,500,500,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 3.5 Cr to 4 Cr,500 days,500,500,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 35 Cr to 50 Cr,500 days,500,500,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 4 Cr to 5.6 Cr,500 days,500,500,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.6 Cr to 5.75 Cr,500 days,500,500,4.75,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.75 Cr to 10.6 Cr,500 days,500,500,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 50 Cr to 75 Cr,500 days,500,500,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 75 Cr to 105.7 Cr,500 days,500,500,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,3 Cr to 3.5 Cr,501 days to 545 days,501,545,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.6 Cr to 10.75 Cr,501 days to 545 days,501,545,4.75,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.75 Cr to 15 Cr,501 days to 545 days,501,545,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 105.7 Cr to 106.5 Cr,501 days to 545 days,501,545,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 106.5 Cr to 150 Cr,501 days to 545 days,501,545,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 15 Cr to 25 Cr,501 days to 545 days,501,545,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 150 Cr to 200 Cr,501 days to 545 days,501,545,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 200 Cr to 225 Cr,501 days to 545 days,501,545,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 225 Cr,501 days to 545 days,501,545,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 25 Cr to 35 Cr,501 days to 545 days,501,545,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 3.5 Cr to 4 Cr,501 days to 545 days,501,545,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 35 Cr to 50 Cr,501 days to 545 days,501,545,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 4 Cr to 5.6 Cr,501 days to 545 days,501,545,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.6 Cr to 5.75 Cr,501 days to 545 days,501,545,4.75,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.75 Cr to 10.6 Cr,501 days to 545 days,501,545,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 50 Cr to 75 Cr,501 days to 545 days,501,545,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 75 Cr to 105.7 Cr,501 days to 545 days,501,545,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,3 Cr to 3.5 Cr,546 days to 24 months,546,730,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.6 Cr to 10.75 Cr,546 days to 24 months,546,730,4.75,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.75 Cr to 15 Cr,546 days to 24 months,546,730,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 105.7 Cr to 106.5 Cr,546 days to 24 months,546,730,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 106.5 Cr to 150 Cr,546 days to 24 months,546,730,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 15 Cr to 25 Cr,546 days to 24 months,546,730,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 150 Cr to 200 Cr,546 days to 24 months,546,730,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 200 Cr to 225 Cr,546 days to 24 months,546,730,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 225 Cr,546 days to 24 months,546,730,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 25 Cr to 35 Cr,546 days to 24 months,546,730,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 3.5 Cr to 4 Cr,546 days to 24 months,546,730,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 35 Cr to 50 Cr,546 days to 24 months,546,730,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 4 Cr to 5.6 Cr,546 days to 24 months,546,730,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.6 Cr to 5.75 Cr,546 days to 24 months,546,730,4.75,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.75 Cr to 10.6 Cr,546 days to 24 months,546,730,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 50 Cr to 75 Cr,546 days to 24 months,546,730,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 75 Cr to 105.7 Cr,546 days to 24 months,546,730,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,3 Cr to 3.5 Cr,24 M 1D to 36 M,731,1095,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.6 Cr to 10.75 Cr,24 M 1D to 36 M,731,1095,3.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.75 Cr to 15 Cr,24 M 1D to 36 M,731,1095,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 105.7 Cr to 106.5 Cr,24 M 1D to 36 M,731,1095,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 106.5 Cr to 150 Cr,24 M 1D to 36 M,731,1095,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 15 Cr to 25 Cr,24 M 1D to 36 M,731,1095,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 150 Cr to 200 Cr,24 M 1D to 36 M,731,1095,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 200 Cr to 225 Cr,24 M 1D to 36 M,731,1095,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 225 Cr,24 M 1D to 36 M,731,1095,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 25 Cr to 35 Cr,24 M 1D to 36 M,731,1095,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 3.5 Cr to 4 Cr,24 M 1D to 36 M,731,1095,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 35 Cr to 50 Cr,24 M 1D to 36 M,731,1095,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 4 Cr to 5.6 Cr,24 M 1D to 36 M,731,1095,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.6 Cr to 5.75 Cr,24 M 1D to 36 M,731,1095,3.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.75 Cr to 10.6 Cr,24 M 1D to 36 M,731,1095,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 50 Cr to 75 Cr,24 M 1D to 36 M,731,1095,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 75 Cr to 105.7 Cr,24 M 1D to 36 M,731,1095,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,3 Cr to 3.5 Cr,36 M 1D to less than 60 M,1096,1824,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.6 Cr to 10.75 Cr,36 M 1D to less than 60 M,1096,1824,3.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.75 Cr to 15 Cr,36 M 1D to less than 60 M,1096,1824,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 105.7 Cr to 106.5 Cr,36 M 1D to less than 60 M,1096,1824,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 106.5 Cr to 150 Cr,36 M 1D to less than 60 M,1096,1824,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 15 Cr to 25 Cr,36 M 1D to less than 60 M,1096,1824,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 150 Cr to 200 Cr,36 M 1D to less than 60 M,1096,1824,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 200 Cr to 225 Cr,36 M 1D to less than 60 M,1096,1824,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 225 Cr,36 M 1D to less than 60 M,1096,1824,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 25 Cr to 35 Cr,36 M 1D to less than 60 M,1096,1824,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 3.5 Cr to 4 Cr,36 M 1D to less than 60 M,1096,1824,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 35 Cr to 50 Cr,36 M 1D to less than 60 M,1096,1824,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 4 Cr to 5.6 Cr,36 M 1D to less than 60 M,1096,1824,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.6 Cr to 5.75 Cr,36 M 1D to less than 60 M,1096,1824,3.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.75 Cr to 10.6 Cr,36 M 1D to less than 60 M,1096,1824,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 50 Cr to 75 Cr,36 M 1D to less than 60 M,1096,1824,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 75 Cr to 105.7 Cr,36 M 1D to less than 60 M,1096,1824,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,3 Cr to 3.5 Cr,60 M to 120 M,1825,3650,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.6 Cr to 10.75 Cr,60 M to 120 M,1825,3650,3.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 10.75 Cr to 15 Cr,60 M to 120 M,1825,3650,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 105.7 Cr to 106.5 Cr,60 M to 120 M,1825,3650,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 106.5 Cr to 150 Cr,60 M to 120 M,1825,3650,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 15 Cr to 25 Cr,60 M to 120 M,1825,3650,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 150 Cr to 200 Cr,60 M to 120 M,1825,3650,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 200 Cr to 225 Cr,60 M to 120 M,1825,3650,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 225 Cr,60 M to 120 M,1825,3650,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 25 Cr to 35 Cr,60 M to 120 M,1825,3650,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 3.5 Cr to 4 Cr,60 M to 120 M,1825,3650,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 35 Cr to 50 Cr,60 M to 120 M,1825,3650,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 4 Cr to 5.6 Cr,60 M to 120 M,1825,3650,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.6 Cr to 5.75 Cr,60 M to 120 M,1825,3650,3.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 5.75 Cr to 10.6 Cr,60 M to 120 M,1825,3650,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 50 Cr to 75 Cr,60 M to 120 M,1825,3650,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Callable,Above 75 Cr to 105.7 Cr,60 M to 120 M,1825,3650,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:25
+RBL,Non-Callable,3 Cr to 3.5 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.6 Cr to 10.75 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.75 Cr to 15 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 105.7 Cr to 106.5 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 106.5 Cr to 150 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 15 Cr to 25 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 150 Cr to 200 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 200 Cr to 225 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 225 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 25 Cr to 35 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 3.5 Cr to 4 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 35 Cr to 50 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 4 Cr to 5.6 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.6 Cr to 5.75 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.75 Cr to 10.6 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 50 Cr to 75 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 75 Cr to 105.7 Cr,7 days to 10 days,7,10,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,3 Cr to 3.5 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.6 Cr to 10.75 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.75 Cr to 15 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 105.7 Cr to 106.5 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 106.5 Cr to 150 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 15 Cr to 25 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 150 Cr to 200 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 200 Cr to 225 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 225 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 25 Cr to 35 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 3.5 Cr to 4 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 35 Cr to 50 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 4 Cr to 5.6 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.6 Cr to 5.75 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.75 Cr to 10.6 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 50 Cr to 75 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 75 Cr to 105.7 Cr,11 days to 14 days,11,14,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,3 Cr to 3.5 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.6 Cr to 10.75 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.75 Cr to 15 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 105.7 Cr to 106.5 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 106.5 Cr to 150 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 15 Cr to 25 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 150 Cr to 200 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 200 Cr to 225 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 225 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 25 Cr to 35 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 3.5 Cr to 4 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 35 Cr to 50 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 4 Cr to 5.6 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.6 Cr to 5.75 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.75 Cr to 10.6 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 50 Cr to 75 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 75 Cr to 105.7 Cr,15 days to 22days,15,22,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,3 Cr to 3.5 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.6 Cr to 10.75 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.75 Cr to 15 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 105.7 Cr to 106.5 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 106.5 Cr to 150 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 15 Cr to 25 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 150 Cr to 200 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 200 Cr to 225 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 225 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 25 Cr to 35 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 3.5 Cr to 4 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 35 Cr to 50 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 4 Cr to 5.6 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.6 Cr to 5.75 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.75 Cr to 10.6 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 50 Cr to 75 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 75 Cr to 105.7 Cr,23 days to 30 days,23,30,3.95,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,3 Cr to 3.5 Cr,31 days to 45 days,31,45,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.6 Cr to 10.75 Cr,31 days to 45 days,31,45,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.75 Cr to 15 Cr,31 days to 45 days,31,45,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 105.7 Cr to 106.5 Cr,31 days to 45 days,31,45,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 106.5 Cr to 150 Cr,31 days to 45 days,31,45,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 15 Cr to 25 Cr,31 days to 45 days,31,45,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 150 Cr to 200 Cr,31 days to 45 days,31,45,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 200 Cr to 225 Cr,31 days to 45 days,31,45,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 225 Cr,31 days to 45 days,31,45,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 25 Cr to 35 Cr,31 days to 45 days,31,45,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 3.5 Cr to 4 Cr,31 days to 45 days,31,45,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 35 Cr to 50 Cr,31 days to 45 days,31,45,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 4 Cr to 5.6 Cr,31 days to 45 days,31,45,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.6 Cr to 5.75 Cr,31 days to 45 days,31,45,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.75 Cr to 10.6 Cr,31 days to 45 days,31,45,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 50 Cr to 75 Cr,31 days to 45 days,31,45,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 75 Cr to 105.7 Cr,31 days to 45 days,31,45,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,3 Cr to 3.5 Cr,46 days to 60 days,46,60,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.6 Cr to 10.75 Cr,46 days to 60 days,46,60,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.75 Cr to 15 Cr,46 days to 60 days,46,60,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 105.7 Cr to 106.5 Cr,46 days to 60 days,46,60,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 106.5 Cr to 150 Cr,46 days to 60 days,46,60,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 15 Cr to 25 Cr,46 days to 60 days,46,60,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 150 Cr to 200 Cr,46 days to 60 days,46,60,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 200 Cr to 225 Cr,46 days to 60 days,46,60,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 225 Cr,46 days to 60 days,46,60,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 25 Cr to 35 Cr,46 days to 60 days,46,60,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 3.5 Cr to 4 Cr,46 days to 60 days,46,60,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 35 Cr to 50 Cr,46 days to 60 days,46,60,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 4 Cr to 5.6 Cr,46 days to 60 days,46,60,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.6 Cr to 5.75 Cr,46 days to 60 days,46,60,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.75 Cr to 10.6 Cr,46 days to 60 days,46,60,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 50 Cr to 75 Cr,46 days to 60 days,46,60,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 75 Cr to 105.7 Cr,46 days to 60 days,46,60,5.3,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,3 Cr to 3.5 Cr,61 days to 75 days,61,75,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.6 Cr to 10.75 Cr,61 days to 75 days,61,75,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.75 Cr to 15 Cr,61 days to 75 days,61,75,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 105.7 Cr to 106.5 Cr,61 days to 75 days,61,75,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 106.5 Cr to 150 Cr,61 days to 75 days,61,75,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 15 Cr to 25 Cr,61 days to 75 days,61,75,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 150 Cr to 200 Cr,61 days to 75 days,61,75,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 200 Cr to 225 Cr,61 days to 75 days,61,75,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 225 Cr,61 days to 75 days,61,75,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 25 Cr to 35 Cr,61 days to 75 days,61,75,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 3.5 Cr to 4 Cr,61 days to 75 days,61,75,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 35 Cr to 50 Cr,61 days to 75 days,61,75,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 4 Cr to 5.6 Cr,61 days to 75 days,61,75,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.6 Cr to 5.75 Cr,61 days to 75 days,61,75,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.75 Cr to 10.6 Cr,61 days to 75 days,61,75,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 50 Cr to 75 Cr,61 days to 75 days,61,75,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 75 Cr to 105.7 Cr,61 days to 75 days,61,75,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,3 Cr to 3.5 Cr,76 days to 90 days,76,90,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.6 Cr to 10.75 Cr,76 days to 90 days,76,90,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.75 Cr to 15 Cr,76 days to 90 days,76,90,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 105.7 Cr to 106.5 Cr,76 days to 90 days,76,90,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 106.5 Cr to 150 Cr,76 days to 90 days,76,90,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 15 Cr to 25 Cr,76 days to 90 days,76,90,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 150 Cr to 200 Cr,76 days to 90 days,76,90,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 200 Cr to 225 Cr,76 days to 90 days,76,90,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 225 Cr,76 days to 90 days,76,90,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 25 Cr to 35 Cr,76 days to 90 days,76,90,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 3.5 Cr to 4 Cr,76 days to 90 days,76,90,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 35 Cr to 50 Cr,76 days to 90 days,76,90,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 4 Cr to 5.6 Cr,76 days to 90 days,76,90,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.6 Cr to 5.75 Cr,76 days to 90 days,76,90,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.75 Cr to 10.6 Cr,76 days to 90 days,76,90,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 50 Cr to 75 Cr,76 days to 90 days,76,90,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 75 Cr to 105.7 Cr,76 days to 90 days,76,90,5.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,3 Cr to 3.5 Cr,91 days to 120 days,91,120,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.6 Cr to 10.75 Cr,91 days to 120 days,91,120,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.75 Cr to 15 Cr,91 days to 120 days,91,120,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 105.7 Cr to 106.5 Cr,91 days to 120 days,91,120,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 106.5 Cr to 150 Cr,91 days to 120 days,91,120,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 15 Cr to 25 Cr,91 days to 120 days,91,120,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 150 Cr to 200 Cr,91 days to 120 days,91,120,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 200 Cr to 225 Cr,91 days to 120 days,91,120,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 225 Cr,91 days to 120 days,91,120,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 25 Cr to 35 Cr,91 days to 120 days,91,120,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 3.5 Cr to 4 Cr,91 days to 120 days,91,120,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 35 Cr to 50 Cr,91 days to 120 days,91,120,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 4 Cr to 5.6 Cr,91 days to 120 days,91,120,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.6 Cr to 5.75 Cr,91 days to 120 days,91,120,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.75 Cr to 10.6 Cr,91 days to 120 days,91,120,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 50 Cr to 75 Cr,91 days to 120 days,91,120,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 75 Cr to 105.7 Cr,91 days to 120 days,91,120,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,3 Cr to 3.5 Cr,121 days to 150 days,121,150,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.6 Cr to 10.75 Cr,121 days to 150 days,121,150,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.75 Cr to 15 Cr,121 days to 150 days,121,150,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 105.7 Cr to 106.5 Cr,121 days to 150 days,121,150,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 106.5 Cr to 150 Cr,121 days to 150 days,121,150,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 15 Cr to 25 Cr,121 days to 150 days,121,150,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 150 Cr to 200 Cr,121 days to 150 days,121,150,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 200 Cr to 225 Cr,121 days to 150 days,121,150,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 225 Cr,121 days to 150 days,121,150,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 25 Cr to 35 Cr,121 days to 150 days,121,150,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 3.5 Cr to 4 Cr,121 days to 150 days,121,150,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 35 Cr to 50 Cr,121 days to 150 days,121,150,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 4 Cr to 5.6 Cr,121 days to 150 days,121,150,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.6 Cr to 5.75 Cr,121 days to 150 days,121,150,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.75 Cr to 10.6 Cr,121 days to 150 days,121,150,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 50 Cr to 75 Cr,121 days to 150 days,121,150,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 75 Cr to 105.7 Cr,121 days to 150 days,121,150,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,3 Cr to 3.5 Cr,151 days to 180 days,151,180,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.6 Cr to 10.75 Cr,151 days to 180 days,151,180,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.75 Cr to 15 Cr,151 days to 180 days,151,180,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 105.7 Cr to 106.5 Cr,151 days to 180 days,151,180,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 106.5 Cr to 150 Cr,151 days to 180 days,151,180,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 15 Cr to 25 Cr,151 days to 180 days,151,180,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 150 Cr to 200 Cr,151 days to 180 days,151,180,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 200 Cr to 225 Cr,151 days to 180 days,151,180,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 225 Cr,151 days to 180 days,151,180,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 25 Cr to 35 Cr,151 days to 180 days,151,180,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 3.5 Cr to 4 Cr,151 days to 180 days,151,180,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 35 Cr to 50 Cr,151 days to 180 days,151,180,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 4 Cr to 5.6 Cr,151 days to 180 days,151,180,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.6 Cr to 5.75 Cr,151 days to 180 days,151,180,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.75 Cr to 10.6 Cr,151 days to 180 days,151,180,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 50 Cr to 75 Cr,151 days to 180 days,151,180,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 75 Cr to 105.7 Cr,151 days to 180 days,151,180,6.25,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,3 Cr to 3.5 Cr,181 days to 210 days,181,210,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.6 Cr to 10.75 Cr,181 days to 210 days,181,210,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.75 Cr to 15 Cr,181 days to 210 days,181,210,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 105.7 Cr to 106.5 Cr,181 days to 210 days,181,210,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 106.5 Cr to 150 Cr,181 days to 210 days,181,210,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 15 Cr to 25 Cr,181 days to 210 days,181,210,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 150 Cr to 200 Cr,181 days to 210 days,181,210,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 200 Cr to 225 Cr,181 days to 210 days,181,210,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 225 Cr,181 days to 210 days,181,210,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 25 Cr to 35 Cr,181 days to 210 days,181,210,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 3.5 Cr to 4 Cr,181 days to 210 days,181,210,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 35 Cr to 50 Cr,181 days to 210 days,181,210,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 4 Cr to 5.6 Cr,181 days to 210 days,181,210,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.6 Cr to 5.75 Cr,181 days to 210 days,181,210,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.75 Cr to 10.6 Cr,181 days to 210 days,181,210,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 50 Cr to 75 Cr,181 days to 210 days,181,210,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 75 Cr to 105.7 Cr,181 days to 210 days,181,210,6.5,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,3 Cr to 3.5 Cr,211 days to 240 days,211,240,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.6 Cr to 10.75 Cr,211 days to 240 days,211,240,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.75 Cr to 15 Cr,211 days to 240 days,211,240,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 105.7 Cr to 106.5 Cr,211 days to 240 days,211,240,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 106.5 Cr to 150 Cr,211 days to 240 days,211,240,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 15 Cr to 25 Cr,211 days to 240 days,211,240,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 150 Cr to 200 Cr,211 days to 240 days,211,240,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 200 Cr to 225 Cr,211 days to 240 days,211,240,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 225 Cr,211 days to 240 days,211,240,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 25 Cr to 35 Cr,211 days to 240 days,211,240,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 3.5 Cr to 4 Cr,211 days to 240 days,211,240,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 35 Cr to 50 Cr,211 days to 240 days,211,240,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 4 Cr to 5.6 Cr,211 days to 240 days,211,240,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.6 Cr to 5.75 Cr,211 days to 240 days,211,240,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.75 Cr to 10.6 Cr,211 days to 240 days,211,240,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 50 Cr to 75 Cr,211 days to 240 days,211,240,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 75 Cr to 105.7 Cr,211 days to 240 days,211,240,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,3 Cr to 3.5 Cr,241 days to 270 days,241,270,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.6 Cr to 10.75 Cr,241 days to 270 days,241,270,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.75 Cr to 15 Cr,241 days to 270 days,241,270,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 105.7 Cr to 106.5 Cr,241 days to 270 days,241,270,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 106.5 Cr to 150 Cr,241 days to 270 days,241,270,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 15 Cr to 25 Cr,241 days to 270 days,241,270,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 150 Cr to 200 Cr,241 days to 270 days,241,270,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 200 Cr to 225 Cr,241 days to 270 days,241,270,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 225 Cr,241 days to 270 days,241,270,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 25 Cr to 35 Cr,241 days to 270 days,241,270,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 3.5 Cr to 4 Cr,241 days to 270 days,241,270,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 35 Cr to 50 Cr,241 days to 270 days,241,270,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 4 Cr to 5.6 Cr,241 days to 270 days,241,270,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.6 Cr to 5.75 Cr,241 days to 270 days,241,270,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.75 Cr to 10.6 Cr,241 days to 270 days,241,270,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 50 Cr to 75 Cr,241 days to 270 days,241,270,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 75 Cr to 105.7 Cr,241 days to 270 days,241,270,6.65,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,3 Cr to 3.5 Cr,271 days to 364 days,271,364,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.6 Cr to 10.75 Cr,271 days to 364 days,271,364,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.75 Cr to 15 Cr,271 days to 364 days,271,364,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 105.7 Cr to 106.5 Cr,271 days to 364 days,271,364,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 106.5 Cr to 150 Cr,271 days to 364 days,271,364,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 15 Cr to 25 Cr,271 days to 364 days,271,364,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 150 Cr to 200 Cr,271 days to 364 days,271,364,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 200 Cr to 225 Cr,271 days to 364 days,271,364,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 225 Cr,271 days to 364 days,271,364,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 25 Cr to 35 Cr,271 days to 364 days,271,364,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 3.5 Cr to 4 Cr,271 days to 364 days,271,364,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 35 Cr to 50 Cr,271 days to 364 days,271,364,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 4 Cr to 5.6 Cr,271 days to 364 days,271,364,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.6 Cr to 5.75 Cr,271 days to 364 days,271,364,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.75 Cr to 10.6 Cr,271 days to 364 days,271,364,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 50 Cr to 75 Cr,271 days to 364 days,271,364,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 75 Cr to 105.7 Cr,271 days to 364 days,271,364,6.9,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,3 Cr to 3.5 Cr,365 - 452 days,365,452,7.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.6 Cr to 10.75 Cr,365 - 452 days,365,452,7.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.75 Cr to 15 Cr,365 - 452 days,365,452,7.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 105.7 Cr to 106.5 Cr,365 - 452 days,365,452,7.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 106.5 Cr to 150 Cr,365 - 452 days,365,452,7.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 15 Cr to 25 Cr,365 - 452 days,365,452,7.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 150 Cr to 200 Cr,365 - 452 days,365,452,7.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 200 Cr to 225 Cr,365 - 452 days,365,452,7.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 225 Cr,365 - 452 days,365,452,7.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 25 Cr to 35 Cr,365 - 452 days,365,452,7.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 3.5 Cr to 4 Cr,365 - 452 days,365,452,7.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 35 Cr to 50 Cr,365 - 452 days,365,452,7.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 4 Cr to 5.6 Cr,365 - 452 days,365,452,7.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.6 Cr to 5.75 Cr,365 - 452 days,365,452,7.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.75 Cr to 10.6 Cr,365 - 452 days,365,452,7.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 50 Cr to 75 Cr,365 - 452 days,365,452,7.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 75 Cr to 105.7 Cr,365 - 452 days,365,452,7.1,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,3 Cr to 3.5 Cr,453 - 499 days,453,499,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.6 Cr to 10.75 Cr,453 - 499 days,453,499,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.75 Cr to 15 Cr,453 - 499 days,453,499,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 105.7 Cr to 106.5 Cr,453 - 499 days,453,499,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 106.5 Cr to 150 Cr,453 - 499 days,453,499,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 15 Cr to 25 Cr,453 - 499 days,453,499,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 150 Cr to 200 Cr,453 - 499 days,453,499,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 200 Cr to 225 Cr,453 - 499 days,453,499,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 225 Cr,453 - 499 days,453,499,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 25 Cr to 35 Cr,453 - 499 days,453,499,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 3.5 Cr to 4 Cr,453 - 499 days,453,499,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 35 Cr to 50 Cr,453 - 499 days,453,499,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 4 Cr to 5.6 Cr,453 - 499 days,453,499,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.6 Cr to 5.75 Cr,453 - 499 days,453,499,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.75 Cr to 10.6 Cr,453 - 499 days,453,499,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 50 Cr to 75 Cr,453 - 499 days,453,499,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 75 Cr to 105.7 Cr,453 - 499 days,453,499,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,3 Cr to 3.5 Cr,500 days,500,500,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.6 Cr to 10.75 Cr,500 days,500,500,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.75 Cr to 15 Cr,500 days,500,500,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 105.7 Cr to 106.5 Cr,500 days,500,500,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 106.5 Cr to 150 Cr,500 days,500,500,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 15 Cr to 25 Cr,500 days,500,500,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 150 Cr to 200 Cr,500 days,500,500,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 200 Cr to 225 Cr,500 days,500,500,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 225 Cr,500 days,500,500,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 25 Cr to 35 Cr,500 days,500,500,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 3.5 Cr to 4 Cr,500 days,500,500,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 35 Cr to 50 Cr,500 days,500,500,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 4 Cr to 5.6 Cr,500 days,500,500,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.6 Cr to 5.75 Cr,500 days,500,500,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.75 Cr to 10.6 Cr,500 days,500,500,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 50 Cr to 75 Cr,500 days,500,500,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 75 Cr to 105.7 Cr,500 days,500,500,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,3 Cr to 3.5 Cr,501 days to 545 days,501,545,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.6 Cr to 10.75 Cr,501 days to 545 days,501,545,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.75 Cr to 15 Cr,501 days to 545 days,501,545,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 105.7 Cr to 106.5 Cr,501 days to 545 days,501,545,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 106.5 Cr to 150 Cr,501 days to 545 days,501,545,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 15 Cr to 25 Cr,501 days to 545 days,501,545,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 150 Cr to 200 Cr,501 days to 545 days,501,545,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 200 Cr to 225 Cr,501 days to 545 days,501,545,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 225 Cr,501 days to 545 days,501,545,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 25 Cr to 35 Cr,501 days to 545 days,501,545,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 3.5 Cr to 4 Cr,501 days to 545 days,501,545,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 35 Cr to 50 Cr,501 days to 545 days,501,545,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 4 Cr to 5.6 Cr,501 days to 545 days,501,545,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.6 Cr to 5.75 Cr,501 days to 545 days,501,545,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.75 Cr to 10.6 Cr,501 days to 545 days,501,545,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 50 Cr to 75 Cr,501 days to 545 days,501,545,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 75 Cr to 105.7 Cr,501 days to 545 days,501,545,7.05,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,3 Cr to 3.5 Cr,546 days to 24 months,546,730,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.6 Cr to 10.75 Cr,546 days to 24 months,546,730,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.75 Cr to 15 Cr,546 days to 24 months,546,730,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 105.7 Cr to 106.5 Cr,546 days to 24 months,546,730,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 106.5 Cr to 150 Cr,546 days to 24 months,546,730,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 15 Cr to 25 Cr,546 days to 24 months,546,730,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 150 Cr to 200 Cr,546 days to 24 months,546,730,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 200 Cr to 225 Cr,546 days to 24 months,546,730,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 225 Cr,546 days to 24 months,546,730,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 25 Cr to 35 Cr,546 days to 24 months,546,730,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 3.5 Cr to 4 Cr,546 days to 24 months,546,730,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 35 Cr to 50 Cr,546 days to 24 months,546,730,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 4 Cr to 5.6 Cr,546 days to 24 months,546,730,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.6 Cr to 5.75 Cr,546 days to 24 months,546,730,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.75 Cr to 10.6 Cr,546 days to 24 months,546,730,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 50 Cr to 75 Cr,546 days to 24 months,546,730,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 75 Cr to 105.7 Cr,546 days to 24 months,546,730,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,3 Cr to 3.5 Cr,24 M 1D to 36 M,731,1095,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.6 Cr to 10.75 Cr,24 M 1D to 36 M,731,1095,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.75 Cr to 15 Cr,24 M 1D to 36 M,731,1095,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 105.7 Cr to 106.5 Cr,24 M 1D to 36 M,731,1095,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 106.5 Cr to 150 Cr,24 M 1D to 36 M,731,1095,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 15 Cr to 25 Cr,24 M 1D to 36 M,731,1095,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 150 Cr to 200 Cr,24 M 1D to 36 M,731,1095,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 200 Cr to 225 Cr,24 M 1D to 36 M,731,1095,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 225 Cr,24 M 1D to 36 M,731,1095,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 25 Cr to 35 Cr,24 M 1D to 36 M,731,1095,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 3.5 Cr to 4 Cr,24 M 1D to 36 M,731,1095,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 35 Cr to 50 Cr,24 M 1D to 36 M,731,1095,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 4 Cr to 5.6 Cr,24 M 1D to 36 M,731,1095,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.6 Cr to 5.75 Cr,24 M 1D to 36 M,731,1095,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.75 Cr to 10.6 Cr,24 M 1D to 36 M,731,1095,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 50 Cr to 75 Cr,24 M 1D to 36 M,731,1095,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 75 Cr to 105.7 Cr,24 M 1D to 36 M,731,1095,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,3 Cr to 3.5 Cr,36 M 1D to less than 60 M,1096,1824,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.6 Cr to 10.75 Cr,36 M 1D to less than 60 M,1096,1824,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.75 Cr to 15 Cr,36 M 1D to less than 60 M,1096,1824,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 105.7 Cr to 106.5 Cr,36 M 1D to less than 60 M,1096,1824,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 106.5 Cr to 150 Cr,36 M 1D to less than 60 M,1096,1824,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 15 Cr to 25 Cr,36 M 1D to less than 60 M,1096,1824,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 150 Cr to 200 Cr,36 M 1D to less than 60 M,1096,1824,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 200 Cr to 225 Cr,36 M 1D to less than 60 M,1096,1824,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 225 Cr,36 M 1D to less than 60 M,1096,1824,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 25 Cr to 35 Cr,36 M 1D to less than 60 M,1096,1824,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 3.5 Cr to 4 Cr,36 M 1D to less than 60 M,1096,1824,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 35 Cr to 50 Cr,36 M 1D to less than 60 M,1096,1824,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 4 Cr to 5.6 Cr,36 M 1D to less than 60 M,1096,1824,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.6 Cr to 5.75 Cr,36 M 1D to less than 60 M,1096,1824,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.75 Cr to 10.6 Cr,36 M 1D to less than 60 M,1096,1824,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 50 Cr to 75 Cr,36 M 1D to less than 60 M,1096,1824,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 75 Cr to 105.7 Cr,36 M 1D to less than 60 M,1096,1824,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,3 Cr to 3.5 Cr,60 M to 120 M,1825,3650,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.6 Cr to 10.75 Cr,60 M to 120 M,1825,3650,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 10.75 Cr to 15 Cr,60 M to 120 M,1825,3650,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 105.7 Cr to 106.5 Cr,60 M to 120 M,1825,3650,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 106.5 Cr to 150 Cr,60 M to 120 M,1825,3650,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 15 Cr to 25 Cr,60 M to 120 M,1825,3650,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 150 Cr to 200 Cr,60 M to 120 M,1825,3650,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 200 Cr to 225 Cr,60 M to 120 M,1825,3650,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 225 Cr,60 M to 120 M,1825,3650,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 25 Cr to 35 Cr,60 M to 120 M,1825,3650,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 3.5 Cr to 4 Cr,60 M to 120 M,1825,3650,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 35 Cr to 50 Cr,60 M to 120 M,1825,3650,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 4 Cr to 5.6 Cr,60 M to 120 M,1825,3650,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.6 Cr to 5.75 Cr,60 M to 120 M,1825,3650,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 5.75 Cr to 10.6 Cr,60 M to 120 M,1825,3650,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 50 Cr to 75 Cr,60 M to 120 M,1825,3650,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27
+RBL,Non-Callable,Above 75 Cr to 105.7 Cr,60 M to 120 M,1825,3650,7.0,2026-10-15,https://webassets.rbl.bank.in/document/pdfs/non-callable-bulk-fd-rates.pdf,official_pdf,2026-10-15T15:06:27

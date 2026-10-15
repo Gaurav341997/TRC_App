@@ -1,0 +1,44 @@
+{
+    "interestBtns": [
+        {
+            "label": "Popular FD Rates",
+            "value": "popular"
+        }, 
+        {
+            "label": "Less than ₹3 Cr.",
+            "value": ""
+        },
+        {
+            "label": "3 - < 5 Cr.",
+            "value": "40000000"
+        },
+        {
+            "label": "5 - < 5.10 Cr.",
+            "value": "50000000"
+        },
+        {
+            "label": "5.10 - < 24.90 Cr.",
+            "value": "51000000"
+        },
+        {
+            "label": "24.90 - < 25 Cr.",
+            "value": "249000000"
+        },
+        {
+            "label": "25 - < 100 Cr.",
+            "value": "250000000"
+        },
+        {
+            "label": "100 - < 250 Cr.",
+            "value": "1000000000"
+        },
+        {
+            "label": "250 - < 500 Cr.",
+            "value": "2500000000"
+        },
+        {
+            "label": "More than 500 Cr.",
+            "value": "5000000000"
+        }
+    ]
+}
